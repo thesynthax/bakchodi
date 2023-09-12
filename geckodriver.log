@@ -1,0 +1,2164 @@
+Invalid port. Exiting...
+1694518947278	geckodriver	INFO	Listening on 127.0.0.1:48149
+1694518947933	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "59807" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileK0zfiT"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694518948393	Marionette	INFO	Marionette enabled
+1694518948442	Marionette	INFO	Listening on port 42559
+WebDriver BiDi listening on ws://127.0.0.1:59807
+Read port: 42559
+1694518948583	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:59807/devtools/browser/8537cc55-0296-4efb-976b-cdf2de1d9564
+1694518949261	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1694518992137	geckodriver	INFO	Listening on 127.0.0.1:44417
+1694518992161	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "35117" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileO4creT"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694518992401	Marionette	INFO	Marionette enabled
+1694518992441	Marionette	INFO	Listening on port 36407
+WebDriver BiDi listening on ws://127.0.0.1:35117
+Read port: 36407
+1694518992566	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:35117/devtools/browser/e4b8d0e7-9cf2-4c36-ac48-3ed5f2fb11e8
+1694518993209	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1694519007423	geckodriver	INFO	Listening on 127.0.0.1:41067
+1694519007446	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "60061" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileRGVim8"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694519007686	Marionette	INFO	Marionette enabled
+1694519007727	Marionette	INFO	Listening on port 43261
+WebDriver BiDi listening on ws://127.0.0.1:60061
+Read port: 43261
+1694519007849	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:60061/devtools/browser/21a8413d-e0a7-4655-8162-4c9b76fad028
+1694519008626	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1694519022305	geckodriver	INFO	Listening on 127.0.0.1:39347
+1694519022328	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "57567" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile2x9flQ"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694519022567	Marionette	INFO	Marionette enabled
+1694519022608	Marionette	INFO	Listening on port 32991
+WebDriver BiDi listening on ws://127.0.0.1:57567
+Read port: 32991
+1694519022729	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:57567/devtools/browser/408f5625-3258-452a-a83c-5cf557032d1c
+1694519023420	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1694519373731	geckodriver	INFO	Listening on 127.0.0.1:52967
+1694519373754	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "59563" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileEIGxNB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+
+(firefox:632605): Gtk-WARNING **: 17:19:34.201: Theme parsing error: gtk.css:63:28: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:632605): Gtk-WARNING **: 17:19:34.202: Theme parsing error: gtk.css:73:35: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:632605): Gtk-WARNING **: 17:19:34.202: Theme parsing error: gtk.css:115:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:632605): Gtk-WARNING **: 17:19:34.202: Theme parsing error: gtk.css:116:24: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:632605): Gtk-WARNING **: 17:19:34.202: Theme parsing error: gtk.css:145:27: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:632605): Gtk-WARNING **: 17:19:34.202: Theme parsing error: gtk.css:146:29: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:632605): Gtk-WARNING **: 17:19:34.202: Theme parsing error: gtk.css:166:34: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:632605): Gtk-WARNING **: 17:19:34.202: Theme parsing error: gtk.css:187:34: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(firefox:632605): Gtk-WARNING **: 17:19:34.320: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:632605): Gtk-WARNING **: 17:19:34.555: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:632605): Gtk-WARNING **: 17:19:34.621: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:632605): Gtk-WARNING **: 17:19:34.648: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+1694519374758	Marionette	INFO	Marionette enabled
+1694519374810	Marionette	INFO	Listening on port 36931
+WebDriver BiDi listening on ws://127.0.0.1:59563
+Read port: 36931
+1694519374949	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:59563/devtools/browser/8a6ac0c4-8d31-45f5-b4eb-aa53c0422a31
+JavaScript warning: https://www.google.com/xjs/_/js/k=xjs.s.en_GB.buvp4qT4-_M.O/am=CAAAAAAAAAAAAAAAAgCgBsIhgA0wQCAAAgAAIACAQkEEAQwABDzKRGIAABAAQmACiIM9AIASqgAAAAAACPsBAAAAACBYAAQAAJoABoQABUAAAAAA5AEAeACAwYQFAAAAAAAAAAAAEPAEweCCBEBAAAQAAAAAAAAAAABSyeTFAAI/d=1/ed=1/dg=2/rs=ACT90oF1h61AJY3YUlPOFa3xL0Ie5joKRQ/ee=cEt90b:ws9Tlc;qddgKe:x4FYXe,d7YSfd;yxTchf:KUM7Z;dtl0hd:lLQWFe;eHDfl:ofjVkb;qaS3gd:yiLg6e;nAFL3:NTMZac,s39S4;oGtAuc:sOXFj;iFQyKf:vfuNJf,QIhFr;SNUn3:ZwDk9d,x8cHvb;io8t5d:sgY6Zb;Oj465e:KG2eXe,KG2eXe;Erl4fe:FloWmf,FloWmf;JsbNhc:Xd8iUd;sP4Vbe:VwDzFe;kMFpHd:OTA3Ae;uY49fb:COQbmf;Pjplud:PoEs9b,EEDORb;QGR0gd:Mlhmy;a56pNe:JEfCwb;Me32dd:MEeYgc;wR5FRb:TtcOte,O1Gjze;pXdRYb:JKoKVe;dIoSBb:ZgGg9b;EmZ2Bf:zr1jrb;NSEoX:lazG7b;eBAeSb:Ck63tb;WCEKNd:I46Hvd;wV5Pjc:L8KGxe;EVNhjf:pw70Gc;sTsDMc:kHVSUb;wQlYve:aLUfP;zOsCQe:Ko78Df;KcokUb:KiuZBf;YV5bee:IvPZ6d;kbAm9d:MkHyGd;ZWEUA:afR4Cf;g8nkx:U4MzKc;lzgfYb:PI40bd;w9w86d:dt4g2b;GleZL:J1A7Od;bcPXSc:gSZLJb;JXS8fb:Qj0suc;IoGlCf:b5lhvb;VN6jIc:ddQyuf;vfVwPd:OXTqFb;ESrPQc:mNTJvc;qavrXe:zQzcXe,mYbt1d;pNsl2d:j9Yuyc;VGRfx:VFqbr;BjwMce:cXX2Wb;R9Ulx:CR7Ufe;kY7VAf:d91TEb;KpRAue:Tia57b;jY0zg:Q6tNgc;l8Azde:j4Ca9b;oSUNyd:fTfGO,fTfGO,vjQg0b;SMDL4c:fTfGO,vjQg0b;aZ61od:arTwJ;ZrFutb:W4Cdfc;K8vqCc:MyIcle;NPKaK:SdcwHb;LBgRLc:XVMNvd,SdcwHb;rQSrae:C6D5Fc;kCQyJ:ueyPK;KQzWid:mB4wNe;EABSZ:MXZt9d;TxfV6d:YORN0b;UDrY1c:eps46d;F9mqte:UoRcbe;Nyt6ic:jn2sGd;w3bZCb:ZPGaIb;G0KhTb:LIaoZ;aAJE9c:WHW6Ef;V2HTTe:RolTY;Wfmdue:g3MJlb;imqimf:jKGL2e;BgS6mb:fidj5d;UVmjEd:EesRsb;z97YGf:oug9te;AfeaP:TkrAjf;eBZ5Nd:audvde;CxXAWb:YyRLvc;SLtqO:Kh1xYe;tosKvd:ZCqP3;VOcgDe:YquhTb;uuQkY:u2V3ud;WDGyFe:jcVOxd;trZL0b:qY8PFe;VxQ32b:k0XsBb;DULqB:RKfG5c;Np8Qkd:Dpx6qc;cFTWae:gT8qnd;gaub4:TN6bMe;xBbsrc:NEW1Qc;DpcR3d:zL72xf;hjRo6e:F62sG;yGxLoc:FmAr0c;oUlnpc:RagDlc;R2kc8b:ALJqWb;pj82le:mg5CW;dLlj2:Qqt3Gf;qGV2uc:HHi04c;gtVSi:ekUOYd;UyG7Kb:wQd0G;LsNahb:ucGLNb;xbe2wc:wbTLEd;Q1Ow7b:x5CSu;bFZ6gf:RsDQqe;okUaUd:wItadb;G6wU6e:hezEbd;uknmt:GkPrzb;PqHfGe:im2cZe;Fmv9Nc:O1Tzwc;hK67qb:QWEO5b;BMxAGc:E5bFse;R4IIIb:QWfeKf;whEZac:F4AmNb;tH4IIe:Ymry6;lkq0A:JyBE3e;daB6be:lMxGPd;U96pRd:FsR04;LEikZe:byfTOb,lsjVmc/m=cdos,cr,hsm,jsa,mb4ZUb,d,csi,cEt90b,SNUn3,qddgKe,sTsDMc,dtl0hd,eHDfl, line 415: Script terminated by timeout at:
+b@https://www.google.com/xjs/_/js/k=xjs.s.en_GB.buvp4qT4-_M.O/am=CAAAAAAAAAAAAAAAAgCgBsIhgA0wQCAAAgAAIACAQkEEAQwABDzKRGIAABAAQmACiIM9AIASqgAAAAAACPsBAAAAACBYAAQAAJoABoQABUAAAAAA5AEAeACAwYQFAAAAAAAAAAAAEPAEweCCBEBAAAQAAAAAAAAAAABSyeTFAAI/d=1/ed=1/dg=2/rs=ACT90oF1h61AJY3YUlPOFa3xL0Ie5joKRQ/ee=cEt90b:ws9Tlc;qddgKe:x4FYXe,d7YSfd;yxTchf:KUM7Z;dtl0hd:lLQWFe;eHDfl:ofjVkb;qaS3gd:yiLg6e;nAFL3:NTMZac,s39S4;oGtAuc:sOXFj;iFQyKf:vfuNJf,QIhFr;SNUn3:ZwDk9d,x8cHvb;io8t5d:sgY6Zb;Oj465e:KG2eXe,KG2eXe;Erl4fe:FloWmf,FloWmf;JsbNhc:Xd8iUd;sP4Vbe:VwDzFe;kMFpHd:OTA3Ae;uY49fb:COQbmf;Pjplud:PoEs9b,EEDORb;QGR0gd:Mlhmy;a56pNe:JEfCwb;Me32dd:MEeYgc;wR5FRb:TtcOte,O1Gjze;pXdRYb:JKoKVe;dIoSBb:ZgGg9b;EmZ2Bf:zr1jrb;NSEoX:lazG7b;eBAeSb:Ck63tb;WCEKNd:I46Hvd;wV5Pjc:L8KGxe;EVNhjf:pw70Gc;sTsDMc:kHVSUb;wQlYve:aLUfP;zOsCQe:Ko78Df;KcokUb:KiuZBf;YV5bee:IvPZ6d;kbAm9d:MkHyGd;ZWEUA:afR4Cf;g8nkx:U4MzKc;lzgfYb:PI40bd;w9w86d:dt4g2b;GleZL:J1A7Od;bcPXSc:gSZLJb;JXS8fb:Qj0suc;IoGlCf:b5lhvb;VN6jIc:ddQyuf;vfVwPd:OXTqFb;ESrPQc:mNTJvc;qavrXe:zQzcXe,mYbt1d;pNsl2d:j9Yuyc;VGRfx:VFqbr;BjwMce:cXX2Wb;R9Ulx:CR7Ufe;kY7VAf:d91TEb;KpRAue:Tia57b;jY0zg:Q6tNgc;l8Azde:j4Ca9b;oSUNyd:fTfGO,fTfGO,vjQg0b;SMDL4c:fTfGO,vjQg0b;aZ61od:arTwJ;ZrFutb:W4Cdfc;K8vqCc:MyIcle;NPKaK:SdcwHb;LBgRLc:XVMNvd,SdcwHb;rQSrae:C6D5Fc;kCQyJ:ueyPK;KQzWid:mB4wNe;EABSZ:MXZt9d;TxfV6d:YORN0b;UDrY1c:eps46d;F9mqte:UoRcbe;Nyt6ic:jn2sGd;w3bZCb:ZPGaIb;G0KhTb:LIaoZ;aAJE9c:WHW6Ef;V2HTTe:RolTY;Wfmdue:g3MJlb;imqimf:jKGL2e;BgS6mb:fidj5d;UVmjEd:EesRsb;z97YGf:oug9te;AfeaP:TkrAjf;eBZ5Nd:audvde;CxXAWb:YyRLvc;SLtqO:Kh1xYe;tosKvd:ZCqP3;VOcgDe:YquhTb;uuQkY:u2V3ud;WDGyFe:jcVOxd;trZL0b:qY8PFe;VxQ32b:k0XsBb;DULqB:RKfG5c;Np8Qkd:Dpx6qc;cFTWae:gT8qnd;gaub4:TN6bMe;xBbsrc:NEW1Qc;DpcR3d:zL72xf;hjRo6e:F62sG;yGxLoc:FmAr0c;oUlnpc:RagDlc;R2kc8b:ALJqWb;pj82le:mg5CW;dLlj2:Qqt3Gf;qGV2uc:HHi04c;gtVSi:ekUOYd;UyG7Kb:wQd0G;LsNahb:ucGLNb;xbe2wc:wbTLEd;Q1Ow7b:x5CSu;bFZ6gf:RsDQqe;okUaUd:wItadb;G6wU6e:hezEbd;uknmt:GkPrzb;PqHfGe:im2cZe;Fmv9Nc:O1Tzwc;hK67qb:QWEO5b;BMxAGc:E5bFse;R4IIIb:QWfeKf;whEZac:F4AmNb;tH4IIe:Ymry6;lkq0A:JyBE3e;daB6be:lMxGPd;U96pRd:FsR04;LEikZe:byfTOb,lsjVmc/m=cdos,cr,hsm,jsa,mb4ZUb,d,csi,cEt90b,SNUn3,qddgKe,sTsDMc,dtl0hd,eHDfl:415:40
+
+1694519400241	Marionette	INFO	Stopped listening on port 36931
+1694519426735	geckodriver	INFO	Listening on 127.0.0.1:33345
+1694519426758	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "49469" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiletknwhh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+
+(firefox:633152): Gtk-WARNING **: 17:20:26.912: Theme parsing error: gtk.css:63:28: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:633152): Gtk-WARNING **: 17:20:26.912: Theme parsing error: gtk.css:73:35: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:633152): Gtk-WARNING **: 17:20:26.912: Theme parsing error: gtk.css:115:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:633152): Gtk-WARNING **: 17:20:26.912: Theme parsing error: gtk.css:116:24: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:633152): Gtk-WARNING **: 17:20:26.912: Theme parsing error: gtk.css:145:27: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:633152): Gtk-WARNING **: 17:20:26.912: Theme parsing error: gtk.css:146:29: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:633152): Gtk-WARNING **: 17:20:26.912: Theme parsing error: gtk.css:166:34: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:633152): Gtk-WARNING **: 17:20:26.912: Theme parsing error: gtk.css:187:34: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(firefox:633152): Gtk-WARNING **: 17:20:26.918: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:633152): Gtk-WARNING **: 17:20:26.976: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:633152): Gtk-WARNING **: 17:20:27.043: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:633152): Gtk-WARNING **: 17:20:27.069: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+1694519427181	Marionette	INFO	Marionette enabled
+1694519427231	Marionette	INFO	Listening on port 38573
+WebDriver BiDi listening on ws://127.0.0.1:49469
+Read port: 38573
+1694519427354	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:49469/devtools/browser/b6948a66-f5d0-431b-b2b5-3bb380dfb8ab
+1694519428126	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1694519456827	Marionette	INFO	Stopped listening on port 38573
+1694519479117	geckodriver	INFO	Listening on 127.0.0.1:33129
+1694519479140	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "58109" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileN0bffx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+
+(firefox:633769): Gtk-WARNING **: 17:21:19.292: Theme parsing error: gtk.css:63:28: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:633769): Gtk-WARNING **: 17:21:19.292: Theme parsing error: gtk.css:73:35: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:633769): Gtk-WARNING **: 17:21:19.292: Theme parsing error: gtk.css:115:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:633769): Gtk-WARNING **: 17:21:19.292: Theme parsing error: gtk.css:116:24: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:633769): Gtk-WARNING **: 17:21:19.292: Theme parsing error: gtk.css:145:27: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:633769): Gtk-WARNING **: 17:21:19.292: Theme parsing error: gtk.css:146:29: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:633769): Gtk-WARNING **: 17:21:19.292: Theme parsing error: gtk.css:166:34: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:633769): Gtk-WARNING **: 17:21:19.292: Theme parsing error: gtk.css:187:34: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(firefox:633769): Gtk-WARNING **: 17:21:19.298: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:633769): Gtk-WARNING **: 17:21:19.355: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:633769): Gtk-WARNING **: 17:21:19.423: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:633769): Gtk-WARNING **: 17:21:19.451: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+1694519479562	Marionette	INFO	Marionette enabled
+1694519479611	Marionette	INFO	Listening on port 46087
+WebDriver BiDi listening on ws://127.0.0.1:58109
+Read port: 46087
+1694519479735	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:58109/devtools/browser/ee70fc98-855c-4834-9dc5-4de0b0ac3a21
+1694519487172	Marionette	INFO	Stopped listening on port 46087
+1694519497545	geckodriver	INFO	Listening on 127.0.0.1:53605
+1694519497568	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "50769" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileaJHuVM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+
+(firefox:634107): Gtk-WARNING **: 17:21:37.718: Theme parsing error: gtk.css:63:28: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:634107): Gtk-WARNING **: 17:21:37.719: Theme parsing error: gtk.css:73:35: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:634107): Gtk-WARNING **: 17:21:37.719: Theme parsing error: gtk.css:115:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:634107): Gtk-WARNING **: 17:21:37.719: Theme parsing error: gtk.css:116:24: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:634107): Gtk-WARNING **: 17:21:37.719: Theme parsing error: gtk.css:145:27: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:634107): Gtk-WARNING **: 17:21:37.719: Theme parsing error: gtk.css:146:29: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:634107): Gtk-WARNING **: 17:21:37.719: Theme parsing error: gtk.css:166:34: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:634107): Gtk-WARNING **: 17:21:37.719: Theme parsing error: gtk.css:187:34: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(firefox:634107): Gtk-WARNING **: 17:21:37.724: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:634107): Gtk-WARNING **: 17:21:37.781: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:634107): Gtk-WARNING **: 17:21:37.858: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:634107): Gtk-WARNING **: 17:21:37.885: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+1694519498001	Marionette	INFO	Marionette enabled
+1694519498054	Marionette	INFO	Listening on port 43931
+WebDriver BiDi listening on ws://127.0.0.1:50769
+Read port: 43931
+1694519498156	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:50769/devtools/browser/c638a45c-0982-42f5-bcc4-e0673be632af
+1694519501036	Marionette	INFO	Stopped listening on port 43931
+1694519531455	geckodriver	INFO	Listening on 127.0.0.1:50055
+1694519531478	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "43679" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile5mNH4c"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+
+(firefox:634548): Gtk-WARNING **: 17:22:11.630: Theme parsing error: gtk.css:63:28: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:634548): Gtk-WARNING **: 17:22:11.630: Theme parsing error: gtk.css:73:35: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:634548): Gtk-WARNING **: 17:22:11.630: Theme parsing error: gtk.css:115:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:634548): Gtk-WARNING **: 17:22:11.630: Theme parsing error: gtk.css:116:24: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:634548): Gtk-WARNING **: 17:22:11.630: Theme parsing error: gtk.css:145:27: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:634548): Gtk-WARNING **: 17:22:11.630: Theme parsing error: gtk.css:146:29: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:634548): Gtk-WARNING **: 17:22:11.630: Theme parsing error: gtk.css:166:34: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:634548): Gtk-WARNING **: 17:22:11.630: Theme parsing error: gtk.css:187:34: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(firefox:634548): Gtk-WARNING **: 17:22:11.636: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:634548): Gtk-WARNING **: 17:22:11.692: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:634548): Gtk-WARNING **: 17:22:11.759: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:634548): Gtk-WARNING **: 17:22:11.785: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+1694519531897	Marionette	INFO	Marionette enabled
+1694519531945	Marionette	INFO	Listening on port 39783
+WebDriver BiDi listening on ws://127.0.0.1:43679
+Read port: 39783
+1694519532075	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:43679/devtools/browser/1108d5a3-b4db-4c54-af72-42730f36c179
+1694519542213	Marionette	INFO	Stopped listening on port 39783
+1694519565084	geckodriver	INFO	Listening on 127.0.0.1:52215
+1694519565108	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "43227" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiledn6zU1"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+
+(firefox:634957): Gtk-WARNING **: 17:22:45.258: Theme parsing error: gtk.css:63:28: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:634957): Gtk-WARNING **: 17:22:45.258: Theme parsing error: gtk.css:73:35: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:634957): Gtk-WARNING **: 17:22:45.258: Theme parsing error: gtk.css:115:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:634957): Gtk-WARNING **: 17:22:45.258: Theme parsing error: gtk.css:116:24: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:634957): Gtk-WARNING **: 17:22:45.258: Theme parsing error: gtk.css:145:27: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:634957): Gtk-WARNING **: 17:22:45.258: Theme parsing error: gtk.css:146:29: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:634957): Gtk-WARNING **: 17:22:45.259: Theme parsing error: gtk.css:166:34: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:634957): Gtk-WARNING **: 17:22:45.259: Theme parsing error: gtk.css:187:34: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(firefox:634957): Gtk-WARNING **: 17:22:45.264: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:634957): Gtk-WARNING **: 17:22:45.322: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:634957): Gtk-WARNING **: 17:22:45.389: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:634957): Gtk-WARNING **: 17:22:45.416: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+1694519565531	Marionette	INFO	Marionette enabled
+1694519565582	Marionette	INFO	Listening on port 45193
+WebDriver BiDi listening on ws://127.0.0.1:43227
+Read port: 45193
+1694519565707	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:43227/devtools/browser/5cc0d1e5-238a-4ae8-b97a-d9bcd3283290
+1694519568155	Marionette	INFO	Stopped listening on port 45193
+1694519785442	geckodriver	INFO	Listening on 127.0.0.1:45595
+1694519785464	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "55637" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileOrH6gW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+
+(firefox:636188): Gtk-WARNING **: 17:26:25.616: Theme parsing error: gtk.css:63:28: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:636188): Gtk-WARNING **: 17:26:25.616: Theme parsing error: gtk.css:73:35: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:636188): Gtk-WARNING **: 17:26:25.616: Theme parsing error: gtk.css:115:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:636188): Gtk-WARNING **: 17:26:25.616: Theme parsing error: gtk.css:116:24: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:636188): Gtk-WARNING **: 17:26:25.616: Theme parsing error: gtk.css:145:27: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:636188): Gtk-WARNING **: 17:26:25.616: Theme parsing error: gtk.css:146:29: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:636188): Gtk-WARNING **: 17:26:25.616: Theme parsing error: gtk.css:166:34: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:636188): Gtk-WARNING **: 17:26:25.616: Theme parsing error: gtk.css:187:34: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(firefox:636188): Gtk-WARNING **: 17:26:25.622: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:636188): Gtk-WARNING **: 17:26:25.680: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:636188): Gtk-WARNING **: 17:26:25.746: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:636188): Gtk-WARNING **: 17:26:25.773: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+1694519785884	Marionette	INFO	Marionette enabled
+1694519785934	Marionette	INFO	Listening on port 46059
+WebDriver BiDi listening on ws://127.0.0.1:55637
+Read port: 46059
+1694519786060	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:55637/devtools/browser/d73db6b7-b410-4fbb-99b1-cf5da5d72d9d
+1694519796549	geckodriver	INFO	Listening on 127.0.0.1:53733
+1694519796572	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "36329" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileM26p00"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+
+(firefox:636524): Gtk-WARNING **: 17:26:36.723: Theme parsing error: gtk.css:63:28: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:636524): Gtk-WARNING **: 17:26:36.723: Theme parsing error: gtk.css:73:35: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:636524): Gtk-WARNING **: 17:26:36.723: Theme parsing error: gtk.css:115:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:636524): Gtk-WARNING **: 17:26:36.723: Theme parsing error: gtk.css:116:24: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:636524): Gtk-WARNING **: 17:26:36.724: Theme parsing error: gtk.css:145:27: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:636524): Gtk-WARNING **: 17:26:36.724: Theme parsing error: gtk.css:146:29: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:636524): Gtk-WARNING **: 17:26:36.724: Theme parsing error: gtk.css:166:34: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:636524): Gtk-WARNING **: 17:26:36.724: Theme parsing error: gtk.css:187:34: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(firefox:636524): Gtk-WARNING **: 17:26:36.729: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:636524): Gtk-WARNING **: 17:26:36.785: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:636524): Gtk-WARNING **: 17:26:36.852: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:636524): Gtk-WARNING **: 17:26:36.879: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+1694519796991	Marionette	INFO	Marionette enabled
+1694519797040	Marionette	INFO	Listening on port 46675
+WebDriver BiDi listening on ws://127.0.0.1:36329
+Read port: 46675
+1694519797165	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:36329/devtools/browser/f3e16621-2a27-4b5e-a049-2549266ce582
+1694519803171	Marionette	INFO	Stopped listening on port 46675
+1694519803662	Marionette	INFO	Stopped listening on port 46059
+1694519863876	geckodriver	INFO	Listening on 127.0.0.1:43095
+1694519863899	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "34231" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilenlmzDT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+
+(firefox:637135): Gtk-WARNING **: 17:27:44.050: Theme parsing error: gtk.css:63:28: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:637135): Gtk-WARNING **: 17:27:44.050: Theme parsing error: gtk.css:73:35: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:637135): Gtk-WARNING **: 17:27:44.050: Theme parsing error: gtk.css:115:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:637135): Gtk-WARNING **: 17:27:44.050: Theme parsing error: gtk.css:116:24: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:637135): Gtk-WARNING **: 17:27:44.050: Theme parsing error: gtk.css:145:27: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:637135): Gtk-WARNING **: 17:27:44.050: Theme parsing error: gtk.css:146:29: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:637135): Gtk-WARNING **: 17:27:44.050: Theme parsing error: gtk.css:166:34: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:637135): Gtk-WARNING **: 17:27:44.050: Theme parsing error: gtk.css:187:34: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(firefox:637135): Gtk-WARNING **: 17:27:44.056: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:637135): Gtk-WARNING **: 17:27:44.112: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:637135): Gtk-WARNING **: 17:27:44.178: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:637135): Gtk-WARNING **: 17:27:44.204: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+1694519864314	Marionette	INFO	Marionette enabled
+1694519864363	Marionette	INFO	Listening on port 40983
+WebDriver BiDi listening on ws://127.0.0.1:34231
+Read port: 40983
+1694519864485	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:34231/devtools/browser/c72eba27-594e-49a9-8441-2ceb7db3b535
+1694519869334	Marionette	INFO	Stopped listening on port 40983
+1694519921792	geckodriver	INFO	Listening on 127.0.0.1:48383
+1694519921815	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "46253" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileUH2iCq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+
+(firefox:637659): Gtk-WARNING **: 17:28:41.964: Theme parsing error: gtk.css:63:28: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:637659): Gtk-WARNING **: 17:28:41.965: Theme parsing error: gtk.css:73:35: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:637659): Gtk-WARNING **: 17:28:41.965: Theme parsing error: gtk.css:115:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:637659): Gtk-WARNING **: 17:28:41.965: Theme parsing error: gtk.css:116:24: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:637659): Gtk-WARNING **: 17:28:41.965: Theme parsing error: gtk.css:145:27: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:637659): Gtk-WARNING **: 17:28:41.965: Theme parsing error: gtk.css:146:29: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:637659): Gtk-WARNING **: 17:28:41.965: Theme parsing error: gtk.css:166:34: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:637659): Gtk-WARNING **: 17:28:41.965: Theme parsing error: gtk.css:187:34: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(firefox:637659): Gtk-WARNING **: 17:28:41.970: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:637659): Gtk-WARNING **: 17:28:42.026: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:637659): Gtk-WARNING **: 17:28:42.093: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:637659): Gtk-WARNING **: 17:28:42.119: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+1694519922231	Marionette	INFO	Marionette enabled
+1694519922281	Marionette	INFO	Listening on port 44351
+WebDriver BiDi listening on ws://127.0.0.1:46253
+Read port: 44351
+1694519922405	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:46253/devtools/browser/e64cb09a-706c-4d41-b2d0-3ebe3c56de14
+1694519925680	Marionette	INFO	Stopped listening on port 44351
+1694519936880	geckodriver	INFO	Listening on 127.0.0.1:55769
+1694519936904	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "52625" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile2aonyw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+
+(firefox:638003): Gtk-WARNING **: 17:28:57.054: Theme parsing error: gtk.css:63:28: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:638003): Gtk-WARNING **: 17:28:57.054: Theme parsing error: gtk.css:73:35: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:638003): Gtk-WARNING **: 17:28:57.054: Theme parsing error: gtk.css:115:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:638003): Gtk-WARNING **: 17:28:57.054: Theme parsing error: gtk.css:116:24: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:638003): Gtk-WARNING **: 17:28:57.054: Theme parsing error: gtk.css:145:27: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:638003): Gtk-WARNING **: 17:28:57.054: Theme parsing error: gtk.css:146:29: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:638003): Gtk-WARNING **: 17:28:57.054: Theme parsing error: gtk.css:166:34: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:638003): Gtk-WARNING **: 17:28:57.054: Theme parsing error: gtk.css:187:34: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(firefox:638003): Gtk-WARNING **: 17:28:57.059: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:638003): Gtk-WARNING **: 17:28:57.116: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:638003): Gtk-WARNING **: 17:28:57.183: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:638003): Gtk-WARNING **: 17:28:57.209: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+1694519937320	Marionette	INFO	Marionette enabled
+1694519937368	Marionette	INFO	Listening on port 44985
+WebDriver BiDi listening on ws://127.0.0.1:52625
+Read port: 44985
+1694519937492	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:52625/devtools/browser/3a9948b1-323f-44d4-9908-51b30faff152
+1694519946982	Marionette	INFO	Stopped listening on port 44985
+1694520307252	geckodriver	INFO	Listening on 127.0.0.1:56859
+1694520307275	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "45207" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile2VBUpy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+
+(firefox:639845): Gtk-WARNING **: 17:35:07.427: Theme parsing error: gtk.css:63:28: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:639845): Gtk-WARNING **: 17:35:07.428: Theme parsing error: gtk.css:73:35: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:639845): Gtk-WARNING **: 17:35:07.428: Theme parsing error: gtk.css:115:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:639845): Gtk-WARNING **: 17:35:07.428: Theme parsing error: gtk.css:116:24: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:639845): Gtk-WARNING **: 17:35:07.428: Theme parsing error: gtk.css:145:27: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:639845): Gtk-WARNING **: 17:35:07.428: Theme parsing error: gtk.css:146:29: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:639845): Gtk-WARNING **: 17:35:07.428: Theme parsing error: gtk.css:166:34: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:639845): Gtk-WARNING **: 17:35:07.428: Theme parsing error: gtk.css:187:34: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(firefox:639845): Gtk-WARNING **: 17:35:07.433: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:639845): Gtk-WARNING **: 17:35:07.490: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:639845): Gtk-WARNING **: 17:35:07.556: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:639845): Gtk-WARNING **: 17:35:07.582: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+1694520307694	Marionette	INFO	Marionette enabled
+1694520307743	Marionette	INFO	Listening on port 38835
+WebDriver BiDi listening on ws://127.0.0.1:45207
+Read port: 38835
+1694520307867	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:45207/devtools/browser/3d954b6b-f026-4663-a344-f426c5cc695f
+1694520321323	Marionette	INFO	Stopped listening on port 38835
+1694520335965	geckodriver	INFO	Listening on 127.0.0.1:45525
+1694520335988	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "55941" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileXg6dKm"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+
+(firefox:640276): Gtk-WARNING **: 17:35:36.138: Theme parsing error: gtk.css:63:28: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:640276): Gtk-WARNING **: 17:35:36.138: Theme parsing error: gtk.css:73:35: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:640276): Gtk-WARNING **: 17:35:36.138: Theme parsing error: gtk.css:115:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:640276): Gtk-WARNING **: 17:35:36.138: Theme parsing error: gtk.css:116:24: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:640276): Gtk-WARNING **: 17:35:36.138: Theme parsing error: gtk.css:145:27: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:640276): Gtk-WARNING **: 17:35:36.138: Theme parsing error: gtk.css:146:29: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:640276): Gtk-WARNING **: 17:35:36.138: Theme parsing error: gtk.css:166:34: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:640276): Gtk-WARNING **: 17:35:36.139: Theme parsing error: gtk.css:187:34: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(firefox:640276): Gtk-WARNING **: 17:35:36.144: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:640276): Gtk-WARNING **: 17:35:36.200: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:640276): Gtk-WARNING **: 17:35:36.266: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:640276): Gtk-WARNING **: 17:35:36.312: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+1694520336425	Marionette	INFO	Marionette enabled
+1694520336476	Marionette	INFO	Listening on port 43171
+WebDriver BiDi listening on ws://127.0.0.1:55941
+Read port: 43171
+1694520336575	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:55941/devtools/browser/8e4df343-1cd8-4acc-94a0-49332c92b2ee
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1694520379568	geckodriver	INFO	Listening on 127.0.0.1:60643
+1694520379591	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "37877" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileLBuicE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+
+(firefox:640742): Gtk-WARNING **: 17:36:19.742: Theme parsing error: gtk.css:63:28: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:640742): Gtk-WARNING **: 17:36:19.742: Theme parsing error: gtk.css:73:35: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:640742): Gtk-WARNING **: 17:36:19.742: Theme parsing error: gtk.css:115:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:640742): Gtk-WARNING **: 17:36:19.742: Theme parsing error: gtk.css:116:24: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:640742): Gtk-WARNING **: 17:36:19.742: Theme parsing error: gtk.css:145:27: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:640742): Gtk-WARNING **: 17:36:19.742: Theme parsing error: gtk.css:146:29: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:640742): Gtk-WARNING **: 17:36:19.742: Theme parsing error: gtk.css:166:34: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:640742): Gtk-WARNING **: 17:36:19.742: Theme parsing error: gtk.css:187:34: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(firefox:640742): Gtk-WARNING **: 17:36:19.747: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:640742): Gtk-WARNING **: 17:36:19.803: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:640742): Gtk-WARNING **: 17:36:19.870: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:640742): Gtk-WARNING **: 17:36:19.896: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+1694520380006	Marionette	INFO	Marionette enabled
+1694520380055	Marionette	INFO	Listening on port 45815
+WebDriver BiDi listening on ws://127.0.0.1:37877
+Read port: 45815
+1694520380179	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:37877/devtools/browser/55b28893-ac9f-4657-9d9a-dce89d7d9614
+1694520388506	geckodriver	INFO	Listening on 127.0.0.1:57265
+1694520388530	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "37613" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileIiHwMK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+
+(firefox:641073): Gtk-WARNING **: 17:36:28.691: Theme parsing error: gtk.css:63:28: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:641073): Gtk-WARNING **: 17:36:28.691: Theme parsing error: gtk.css:73:35: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:641073): Gtk-WARNING **: 17:36:28.691: Theme parsing error: gtk.css:115:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:641073): Gtk-WARNING **: 17:36:28.691: Theme parsing error: gtk.css:116:24: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:641073): Gtk-WARNING **: 17:36:28.691: Theme parsing error: gtk.css:145:27: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:641073): Gtk-WARNING **: 17:36:28.691: Theme parsing error: gtk.css:146:29: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:641073): Gtk-WARNING **: 17:36:28.691: Theme parsing error: gtk.css:166:34: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:641073): Gtk-WARNING **: 17:36:28.691: Theme parsing error: gtk.css:187:34: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(firefox:641073): Gtk-WARNING **: 17:36:28.737: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:641073): Gtk-WARNING **: 17:36:28.803: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:641073): Gtk-WARNING **: 17:36:28.870: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:641073): Gtk-WARNING **: 17:36:28.897: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+1694520389008	Marionette	INFO	Marionette enabled
+1694520389057	Marionette	INFO	Listening on port 46725
+WebDriver BiDi listening on ws://127.0.0.1:37613
+Read port: 46725
+1694520389188	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:37613/devtools/browser/f481c9c7-71ac-4b3c-b737-5c53d635bd59
+1694520395073	Marionette	INFO	Stopped listening on port 46725
+1694520395423	Marionette	INFO	Stopped listening on port 45815
+1694520395982	Marionette	INFO	Stopped listening on port 43171
+1694520453164	geckodriver	INFO	Listening on 127.0.0.1:47719
+1694520453187	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "43921" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileAkraJZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+
+(firefox:641769): Gtk-WARNING **: 17:37:33.337: Theme parsing error: gtk.css:63:28: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:641769): Gtk-WARNING **: 17:37:33.337: Theme parsing error: gtk.css:73:35: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:641769): Gtk-WARNING **: 17:37:33.337: Theme parsing error: gtk.css:115:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:641769): Gtk-WARNING **: 17:37:33.337: Theme parsing error: gtk.css:116:24: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:641769): Gtk-WARNING **: 17:37:33.337: Theme parsing error: gtk.css:145:27: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:641769): Gtk-WARNING **: 17:37:33.337: Theme parsing error: gtk.css:146:29: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:641769): Gtk-WARNING **: 17:37:33.337: Theme parsing error: gtk.css:166:34: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:641769): Gtk-WARNING **: 17:37:33.337: Theme parsing error: gtk.css:187:34: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(firefox:641769): Gtk-WARNING **: 17:37:33.343: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:641769): Gtk-WARNING **: 17:37:33.399: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:641769): Gtk-WARNING **: 17:37:33.467: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:641769): Gtk-WARNING **: 17:37:33.493: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+1694520453605	Marionette	INFO	Marionette enabled
+1694520453653	Marionette	INFO	Listening on port 43731
+WebDriver BiDi listening on ws://127.0.0.1:43921
+Read port: 43731
+1694520453778	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:43921/devtools/browser/78e5df2e-7c11-40dd-8fa1-c1be47756062
+1694520459736	geckodriver	INFO	Listening on 127.0.0.1:34425
+1694520459759	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "59365" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileFQbxje"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+
+(firefox:642085): Gtk-WARNING **: 17:37:39.909: Theme parsing error: gtk.css:63:28: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:642085): Gtk-WARNING **: 17:37:39.909: Theme parsing error: gtk.css:73:35: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:642085): Gtk-WARNING **: 17:37:39.909: Theme parsing error: gtk.css:115:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:642085): Gtk-WARNING **: 17:37:39.909: Theme parsing error: gtk.css:116:24: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:642085): Gtk-WARNING **: 17:37:39.909: Theme parsing error: gtk.css:145:27: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:642085): Gtk-WARNING **: 17:37:39.909: Theme parsing error: gtk.css:146:29: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:642085): Gtk-WARNING **: 17:37:39.909: Theme parsing error: gtk.css:166:34: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:642085): Gtk-WARNING **: 17:37:39.909: Theme parsing error: gtk.css:187:34: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(firefox:642085): Gtk-WARNING **: 17:37:39.914: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:642085): Gtk-WARNING **: 17:37:39.971: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:642085): Gtk-WARNING **: 17:37:40.037: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:642085): Gtk-WARNING **: 17:37:40.063: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+1694520460173	Marionette	INFO	Marionette enabled
+1694520460222	Marionette	INFO	Listening on port 41463
+WebDriver BiDi listening on ws://127.0.0.1:59365
+Read port: 41463
+1694520460347	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:59365/devtools/browser/63e3c7f9-29e0-48f9-83cd-ae659bcb0e82
+1694520480859	Marionette	INFO	Stopped listening on port 41463
+1694520481637	Marionette	INFO	Stopped listening on port 43731
+1694520567865	geckodriver	INFO	Listening on 127.0.0.1:48327
+1694520567888	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "60691" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileCEx7Wa"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+
+(firefox:642826): Gtk-WARNING **: 17:39:28.041: Theme parsing error: gtk.css:63:28: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:642826): Gtk-WARNING **: 17:39:28.041: Theme parsing error: gtk.css:73:35: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:642826): Gtk-WARNING **: 17:39:28.041: Theme parsing error: gtk.css:115:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:642826): Gtk-WARNING **: 17:39:28.041: Theme parsing error: gtk.css:116:24: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:642826): Gtk-WARNING **: 17:39:28.041: Theme parsing error: gtk.css:145:27: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:642826): Gtk-WARNING **: 17:39:28.041: Theme parsing error: gtk.css:146:29: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:642826): Gtk-WARNING **: 17:39:28.041: Theme parsing error: gtk.css:166:34: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:642826): Gtk-WARNING **: 17:39:28.041: Theme parsing error: gtk.css:187:34: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(firefox:642826): Gtk-WARNING **: 17:39:28.046: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:642826): Gtk-WARNING **: 17:39:28.103: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:642826): Gtk-WARNING **: 17:39:28.169: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:642826): Gtk-WARNING **: 17:39:28.196: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+1694520568307	Marionette	INFO	Marionette enabled
+1694520568356	Marionette	INFO	Listening on port 37083
+WebDriver BiDi listening on ws://127.0.0.1:60691
+Read port: 37083
+1694520568482	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:60691/devtools/browser/6b5ae5bb-ed1b-462c-9bde-af5f19eee5aa
+1694520571896	Marionette	INFO	Stopped listening on port 37083
+1694520584009	geckodriver	INFO	Listening on 127.0.0.1:35659
+1694520584032	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "42833" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilewQIwJA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+
+(firefox:643187): Gtk-WARNING **: 17:39:44.190: Theme parsing error: gtk.css:63:28: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:643187): Gtk-WARNING **: 17:39:44.190: Theme parsing error: gtk.css:73:35: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:643187): Gtk-WARNING **: 17:39:44.190: Theme parsing error: gtk.css:115:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:643187): Gtk-WARNING **: 17:39:44.190: Theme parsing error: gtk.css:116:24: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:643187): Gtk-WARNING **: 17:39:44.191: Theme parsing error: gtk.css:145:27: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:643187): Gtk-WARNING **: 17:39:44.191: Theme parsing error: gtk.css:146:29: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:643187): Gtk-WARNING **: 17:39:44.191: Theme parsing error: gtk.css:166:34: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:643187): Gtk-WARNING **: 17:39:44.191: Theme parsing error: gtk.css:187:34: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(firefox:643187): Gtk-WARNING **: 17:39:44.196: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:643187): Gtk-WARNING **: 17:39:44.253: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:643187): Gtk-WARNING **: 17:39:44.319: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:643187): Gtk-WARNING **: 17:39:44.346: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+1694520584456	Marionette	INFO	Marionette enabled
+1694520584504	Marionette	INFO	Listening on port 43181
+WebDriver BiDi listening on ws://127.0.0.1:42833
+Read port: 43181
+1694520584627	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:42833/devtools/browser/bcbb7740-1949-4893-98fa-85f432e22240
+1694520595971	Marionette	INFO	Stopped listening on port 43181
+1694520634086	geckodriver	INFO	Listening on 127.0.0.1:57401
+1694520634110	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "46541" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilekGdAvR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+
+(firefox:643760): Gtk-WARNING **: 17:40:34.264: Theme parsing error: gtk.css:63:28: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:643760): Gtk-WARNING **: 17:40:34.264: Theme parsing error: gtk.css:73:35: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:643760): Gtk-WARNING **: 17:40:34.264: Theme parsing error: gtk.css:115:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:643760): Gtk-WARNING **: 17:40:34.264: Theme parsing error: gtk.css:116:24: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:643760): Gtk-WARNING **: 17:40:34.264: Theme parsing error: gtk.css:145:27: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:643760): Gtk-WARNING **: 17:40:34.264: Theme parsing error: gtk.css:146:29: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:643760): Gtk-WARNING **: 17:40:34.264: Theme parsing error: gtk.css:166:34: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:643760): Gtk-WARNING **: 17:40:34.264: Theme parsing error: gtk.css:187:34: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(firefox:643760): Gtk-WARNING **: 17:40:34.270: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:643760): Gtk-WARNING **: 17:40:34.326: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:643760): Gtk-WARNING **: 17:40:34.394: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:643760): Gtk-WARNING **: 17:40:34.421: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+1694520634541	Marionette	INFO	Marionette enabled
+1694520634588	Marionette	INFO	Listening on port 41657
+WebDriver BiDi listening on ws://127.0.0.1:46541
+Read port: 41657
+1694520634711	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:46541/devtools/browser/a5d1484c-6701-4054-b198-51efbfcc749e
+1694520653397	Marionette	INFO	Stopped listening on port 41657
+1694520684484	geckodriver	INFO	Listening on 127.0.0.1:59251
+1694520684507	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "47767" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilebu2tLW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+
+(firefox:644263): Gtk-WARNING **: 17:41:24.659: Theme parsing error: gtk.css:63:28: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:644263): Gtk-WARNING **: 17:41:24.659: Theme parsing error: gtk.css:73:35: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:644263): Gtk-WARNING **: 17:41:24.659: Theme parsing error: gtk.css:115:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:644263): Gtk-WARNING **: 17:41:24.659: Theme parsing error: gtk.css:116:24: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:644263): Gtk-WARNING **: 17:41:24.659: Theme parsing error: gtk.css:145:27: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:644263): Gtk-WARNING **: 17:41:24.659: Theme parsing error: gtk.css:146:29: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:644263): Gtk-WARNING **: 17:41:24.659: Theme parsing error: gtk.css:166:34: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:644263): Gtk-WARNING **: 17:41:24.660: Theme parsing error: gtk.css:187:34: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(firefox:644263): Gtk-WARNING **: 17:41:24.665: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:644263): Gtk-WARNING **: 17:41:24.722: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:644263): Gtk-WARNING **: 17:41:24.790: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:644263): Gtk-WARNING **: 17:41:24.816: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+1694520684927	Marionette	INFO	Marionette enabled
+1694520684976	Marionette	INFO	Listening on port 42483
+WebDriver BiDi listening on ws://127.0.0.1:47767
+Read port: 42483
+1694520685101	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:47767/devtools/browser/cf6db497-ece6-4756-ab35-d88b6c2e539f
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1694520692947	geckodriver	INFO	Listening on 127.0.0.1:39597
+1694520692970	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "44471" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileIBLOdJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+
+(firefox:644591): Gtk-WARNING **: 17:41:33.120: Theme parsing error: gtk.css:63:28: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:644591): Gtk-WARNING **: 17:41:33.120: Theme parsing error: gtk.css:73:35: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:644591): Gtk-WARNING **: 17:41:33.120: Theme parsing error: gtk.css:115:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:644591): Gtk-WARNING **: 17:41:33.120: Theme parsing error: gtk.css:116:24: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:644591): Gtk-WARNING **: 17:41:33.120: Theme parsing error: gtk.css:145:27: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:644591): Gtk-WARNING **: 17:41:33.120: Theme parsing error: gtk.css:146:29: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:644591): Gtk-WARNING **: 17:41:33.120: Theme parsing error: gtk.css:166:34: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:644591): Gtk-WARNING **: 17:41:33.120: Theme parsing error: gtk.css:187:34: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(firefox:644591): Gtk-WARNING **: 17:41:33.126: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:644591): Gtk-WARNING **: 17:41:33.183: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:644591): Gtk-WARNING **: 17:41:33.249: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:644591): Gtk-WARNING **: 17:41:33.276: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+1694520693386	Marionette	INFO	Marionette enabled
+1694520693435	Marionette	INFO	Listening on port 35387
+WebDriver BiDi listening on ws://127.0.0.1:44471
+Read port: 35387
+1694520693560	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:44471/devtools/browser/2fe1f78b-409b-4e2e-b59b-efd68fb961c0
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1694520715388	geckodriver	INFO	Listening on 127.0.0.1:44215
+1694520715410	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "58127" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileFnu7Lg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+
+(firefox:644980): Gtk-WARNING **: 17:41:55.567: Theme parsing error: gtk.css:63:28: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:644980): Gtk-WARNING **: 17:41:55.567: Theme parsing error: gtk.css:73:35: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:644980): Gtk-WARNING **: 17:41:55.567: Theme parsing error: gtk.css:115:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:644980): Gtk-WARNING **: 17:41:55.567: Theme parsing error: gtk.css:116:24: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:644980): Gtk-WARNING **: 17:41:55.567: Theme parsing error: gtk.css:145:27: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:644980): Gtk-WARNING **: 17:41:55.567: Theme parsing error: gtk.css:146:29: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:644980): Gtk-WARNING **: 17:41:55.567: Theme parsing error: gtk.css:166:34: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:644980): Gtk-WARNING **: 17:41:55.567: Theme parsing error: gtk.css:187:34: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(firefox:644980): Gtk-WARNING **: 17:41:55.573: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:644980): Gtk-WARNING **: 17:41:55.631: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:644980): Gtk-WARNING **: 17:41:55.698: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:644980): Gtk-WARNING **: 17:41:55.725: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+1694520715836	Marionette	INFO	Marionette enabled
+1694520715885	Marionette	INFO	Listening on port 37735
+WebDriver BiDi listening on ws://127.0.0.1:58127
+Read port: 37735
+1694520716009	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:58127/devtools/browser/f18d17b1-b9dc-43c6-839b-7864a969fc03
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1694535140132	Marionette	INFO	Stopped listening on port 37735
+1694535174457	geckodriver	INFO	Listening on 127.0.0.1:33243
+1694535174481	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "59033" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileIdjvK5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+
+(firefox:703314): Gtk-WARNING **: 21:42:54.635: Theme parsing error: gtk.css:63:28: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:703314): Gtk-WARNING **: 21:42:54.635: Theme parsing error: gtk.css:73:35: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:703314): Gtk-WARNING **: 21:42:54.635: Theme parsing error: gtk.css:115:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:703314): Gtk-WARNING **: 21:42:54.635: Theme parsing error: gtk.css:116:24: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:703314): Gtk-WARNING **: 21:42:54.635: Theme parsing error: gtk.css:145:27: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:703314): Gtk-WARNING **: 21:42:54.635: Theme parsing error: gtk.css:146:29: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:703314): Gtk-WARNING **: 21:42:54.635: Theme parsing error: gtk.css:166:34: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:703314): Gtk-WARNING **: 21:42:54.635: Theme parsing error: gtk.css:187:34: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(firefox:703314): Gtk-WARNING **: 21:42:54.695: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:703314): Gtk-WARNING **: 21:42:54.848: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:703314): Gtk-WARNING **: 21:42:54.929: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:703314): Gtk-WARNING **: 21:42:54.958: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+1694535175076	Marionette	INFO	Marionette enabled
+1694535175124	Marionette	INFO	Listening on port 37237
+WebDriver BiDi listening on ws://127.0.0.1:59033
+Read port: 37237
+1694535175256	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:59033/devtools/browser/541f8c18-c555-4329-b152-923ef1d9befc
+1694535196123	Marionette	INFO	Stopped listening on port 37237
+1694535205154	geckodriver	INFO	Listening on 127.0.0.1:37639
+1694535205177	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "49255" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilepZr2LR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+
+(firefox:703738): Gtk-WARNING **: 21:43:25.326: Theme parsing error: gtk.css:63:28: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:703738): Gtk-WARNING **: 21:43:25.326: Theme parsing error: gtk.css:73:35: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:703738): Gtk-WARNING **: 21:43:25.326: Theme parsing error: gtk.css:115:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:703738): Gtk-WARNING **: 21:43:25.326: Theme parsing error: gtk.css:116:24: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:703738): Gtk-WARNING **: 21:43:25.326: Theme parsing error: gtk.css:145:27: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:703738): Gtk-WARNING **: 21:43:25.326: Theme parsing error: gtk.css:146:29: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:703738): Gtk-WARNING **: 21:43:25.326: Theme parsing error: gtk.css:166:34: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:703738): Gtk-WARNING **: 21:43:25.326: Theme parsing error: gtk.css:187:34: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(firefox:703738): Gtk-WARNING **: 21:43:25.332: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:703738): Gtk-WARNING **: 21:43:25.389: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:703738): Gtk-WARNING **: 21:43:25.455: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:703738): Gtk-WARNING **: 21:43:25.482: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+1694535205593	Marionette	INFO	Marionette enabled
+1694535205643	Marionette	INFO	Listening on port 35145
+WebDriver BiDi listening on ws://127.0.0.1:49255
+Read port: 35145
+1694535205769	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:49255/devtools/browser/2c98862c-c5d0-4316-950e-bf693c8027d3
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1694535268338	geckodriver	INFO	Listening on 127.0.0.1:50435
+1694535268361	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "37455" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile9I8mcI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+
+(firefox:704322): Gtk-WARNING **: 21:44:28.512: Theme parsing error: gtk.css:63:28: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:704322): Gtk-WARNING **: 21:44:28.512: Theme parsing error: gtk.css:73:35: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:704322): Gtk-WARNING **: 21:44:28.512: Theme parsing error: gtk.css:115:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:704322): Gtk-WARNING **: 21:44:28.512: Theme parsing error: gtk.css:116:24: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:704322): Gtk-WARNING **: 21:44:28.512: Theme parsing error: gtk.css:145:27: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:704322): Gtk-WARNING **: 21:44:28.512: Theme parsing error: gtk.css:146:29: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:704322): Gtk-WARNING **: 21:44:28.512: Theme parsing error: gtk.css:166:34: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:704322): Gtk-WARNING **: 21:44:28.512: Theme parsing error: gtk.css:187:34: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(firefox:704322): Gtk-WARNING **: 21:44:28.517: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:704322): Gtk-WARNING **: 21:44:28.574: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:704322): Gtk-WARNING **: 21:44:28.641: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:704322): Gtk-WARNING **: 21:44:28.667: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+1694535268779	Marionette	INFO	Marionette enabled
+1694535268828	Marionette	INFO	Listening on port 37059
+WebDriver BiDi listening on ws://127.0.0.1:37455
+Read port: 37059
+1694535268952	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:37455/devtools/browser/ff4f2945-fd99-40cc-b959-107d9502bf7f
+1694535278021	geckodriver	INFO	Listening on 127.0.0.1:51537
+1694535278044	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "53713" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilePoKynY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+
+(firefox:704648): Gtk-WARNING **: 21:44:38.243: Theme parsing error: gtk.css:63:28: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:704648): Gtk-WARNING **: 21:44:38.243: Theme parsing error: gtk.css:73:35: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:704648): Gtk-WARNING **: 21:44:38.243: Theme parsing error: gtk.css:115:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:704648): Gtk-WARNING **: 21:44:38.243: Theme parsing error: gtk.css:116:24: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:704648): Gtk-WARNING **: 21:44:38.243: Theme parsing error: gtk.css:145:27: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:704648): Gtk-WARNING **: 21:44:38.243: Theme parsing error: gtk.css:146:29: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:704648): Gtk-WARNING **: 21:44:38.243: Theme parsing error: gtk.css:166:34: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:704648): Gtk-WARNING **: 21:44:38.244: Theme parsing error: gtk.css:187:34: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(firefox:704648): Gtk-WARNING **: 21:44:38.249: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:704648): Gtk-WARNING **: 21:44:38.307: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:704648): Gtk-WARNING **: 21:44:38.373: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:704648): Gtk-WARNING **: 21:44:38.399: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+1694535278511	Marionette	INFO	Marionette enabled
+1694535278560	Marionette	INFO	Listening on port 44731
+WebDriver BiDi listening on ws://127.0.0.1:53713
+Read port: 44731
+1694535278690	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:53713/devtools/browser/52f3d38d-fc32-4f82-a5c4-43352f675abc
+1694535282871	Marionette	INFO	Stopped listening on port 35145
+1694535284057	Marionette	INFO	Stopped listening on port 37059
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1694535381737	geckodriver	INFO	Listening on 127.0.0.1:41705
+1694535381759	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "48909" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileEdqlXW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+
+(firefox:705524): Gtk-WARNING **: 21:46:21.909: Theme parsing error: gtk.css:63:28: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:705524): Gtk-WARNING **: 21:46:21.909: Theme parsing error: gtk.css:73:35: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:705524): Gtk-WARNING **: 21:46:21.909: Theme parsing error: gtk.css:115:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:705524): Gtk-WARNING **: 21:46:21.909: Theme parsing error: gtk.css:116:24: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:705524): Gtk-WARNING **: 21:46:21.909: Theme parsing error: gtk.css:145:27: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:705524): Gtk-WARNING **: 21:46:21.909: Theme parsing error: gtk.css:146:29: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:705524): Gtk-WARNING **: 21:46:21.909: Theme parsing error: gtk.css:166:34: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:705524): Gtk-WARNING **: 21:46:21.909: Theme parsing error: gtk.css:187:34: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(firefox:705524): Gtk-WARNING **: 21:46:21.915: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:705524): Gtk-WARNING **: 21:46:21.972: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:705524): Gtk-WARNING **: 21:46:22.037: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:705524): Gtk-WARNING **: 21:46:22.063: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+1694535382173	Marionette	INFO	Marionette enabled
+1694535382221	Marionette	INFO	Listening on port 39789
+WebDriver BiDi listening on ws://127.0.0.1:48909
+Read port: 39789
+1694535382349	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:48909/devtools/browser/fd88a884-63c9-482c-81c4-65f2d3318715
+1694535406341	geckodriver	INFO	Listening on 127.0.0.1:54707
+1694535406364	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "46615" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile6yS84w"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+
+(firefox:705926): Gtk-WARNING **: 21:46:46.527: Theme parsing error: gtk.css:63:28: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:705926): Gtk-WARNING **: 21:46:46.527: Theme parsing error: gtk.css:73:35: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:705926): Gtk-WARNING **: 21:46:46.527: Theme parsing error: gtk.css:115:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:705926): Gtk-WARNING **: 21:46:46.527: Theme parsing error: gtk.css:116:24: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:705926): Gtk-WARNING **: 21:46:46.527: Theme parsing error: gtk.css:145:27: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:705926): Gtk-WARNING **: 21:46:46.527: Theme parsing error: gtk.css:146:29: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:705926): Gtk-WARNING **: 21:46:46.527: Theme parsing error: gtk.css:166:34: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:705926): Gtk-WARNING **: 21:46:46.527: Theme parsing error: gtk.css:187:34: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(firefox:705926): Gtk-WARNING **: 21:46:46.532: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:705926): Gtk-WARNING **: 21:46:46.589: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:705926): Gtk-WARNING **: 21:46:46.654: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:705926): Gtk-WARNING **: 21:46:46.681: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+1694535406791	Marionette	INFO	Marionette enabled
+1694535406839	Marionette	INFO	Listening on port 45247
+WebDriver BiDi listening on ws://127.0.0.1:46615
+Read port: 45247
+1694535406963	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:46615/devtools/browser/7acabf66-8308-4438-a65e-19b29fe915ee
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1694535423293	geckodriver	INFO	Listening on 127.0.0.1:45193
+1694535423316	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "41669" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilehjsozX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+
+(firefox:706291): Gtk-WARNING **: 21:47:03.466: Theme parsing error: gtk.css:63:28: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:706291): Gtk-WARNING **: 21:47:03.466: Theme parsing error: gtk.css:73:35: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:706291): Gtk-WARNING **: 21:47:03.466: Theme parsing error: gtk.css:115:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:706291): Gtk-WARNING **: 21:47:03.466: Theme parsing error: gtk.css:116:24: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:706291): Gtk-WARNING **: 21:47:03.466: Theme parsing error: gtk.css:145:27: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:706291): Gtk-WARNING **: 21:47:03.466: Theme parsing error: gtk.css:146:29: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:706291): Gtk-WARNING **: 21:47:03.466: Theme parsing error: gtk.css:166:34: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:706291): Gtk-WARNING **: 21:47:03.466: Theme parsing error: gtk.css:187:34: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(firefox:706291): Gtk-WARNING **: 21:47:03.471: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:706291): Gtk-WARNING **: 21:47:03.529: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:706291): Gtk-WARNING **: 21:47:03.596: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:706291): Gtk-WARNING **: 21:47:03.623: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+1694535423732	Marionette	INFO	Marionette enabled
+1694535423780	Marionette	INFO	Listening on port 45291
+WebDriver BiDi listening on ws://127.0.0.1:41669
+Read port: 45291
+1694535423906	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:41669/devtools/browser/c6b36de2-efef-4f2a-b2d9-2150c3d1d013
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1694535708996	geckodriver	INFO	Listening on 127.0.0.1:51801
+1694535709019	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "35071" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilezSKi3R"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+
+(firefox:707801): Gtk-WARNING **: 21:51:49.171: Theme parsing error: gtk.css:63:28: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:707801): Gtk-WARNING **: 21:51:49.171: Theme parsing error: gtk.css:73:35: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:707801): Gtk-WARNING **: 21:51:49.171: Theme parsing error: gtk.css:115:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:707801): Gtk-WARNING **: 21:51:49.171: Theme parsing error: gtk.css:116:24: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:707801): Gtk-WARNING **: 21:51:49.171: Theme parsing error: gtk.css:145:27: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:707801): Gtk-WARNING **: 21:51:49.171: Theme parsing error: gtk.css:146:29: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:707801): Gtk-WARNING **: 21:51:49.172: Theme parsing error: gtk.css:166:34: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:707801): Gtk-WARNING **: 21:51:49.172: Theme parsing error: gtk.css:187:34: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(firefox:707801): Gtk-WARNING **: 21:51:49.177: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:707801): Gtk-WARNING **: 21:51:49.236: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:707801): Gtk-WARNING **: 21:51:49.303: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:707801): Gtk-WARNING **: 21:51:49.329: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+1694535709440	Marionette	INFO	Marionette enabled
+1694535709489	Marionette	INFO	Listening on port 38217
+WebDriver BiDi listening on ws://127.0.0.1:35071
+Read port: 38217
+1694535709614	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:35071/devtools/browser/e4a3d1fa-60b9-4915-9a1d-0269b1f302d9
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1694535740962	geckodriver	INFO	Listening on 127.0.0.1:39103
+1694535740989	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "58893" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileKjZ6PD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+
+(firefox:708234): Gtk-WARNING **: 21:52:21.142: Theme parsing error: gtk.css:63:28: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:708234): Gtk-WARNING **: 21:52:21.142: Theme parsing error: gtk.css:73:35: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:708234): Gtk-WARNING **: 21:52:21.142: Theme parsing error: gtk.css:115:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:708234): Gtk-WARNING **: 21:52:21.142: Theme parsing error: gtk.css:116:24: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:708234): Gtk-WARNING **: 21:52:21.142: Theme parsing error: gtk.css:145:27: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:708234): Gtk-WARNING **: 21:52:21.142: Theme parsing error: gtk.css:146:29: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:708234): Gtk-WARNING **: 21:52:21.142: Theme parsing error: gtk.css:166:34: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:708234): Gtk-WARNING **: 21:52:21.142: Theme parsing error: gtk.css:187:34: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(firefox:708234): Gtk-WARNING **: 21:52:21.148: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:708234): Gtk-WARNING **: 21:52:21.206: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:708234): Gtk-WARNING **: 21:52:21.273: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:708234): Gtk-WARNING **: 21:52:21.299: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+1694535741415	Marionette	INFO	Marionette enabled
+1694535741465	Marionette	INFO	Listening on port 40493
+WebDriver BiDi listening on ws://127.0.0.1:58893
+Read port: 40493
+1694535741592	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:58893/devtools/browser/7c77266e-0007-4283-a025-db9316bff3f7
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1694535805713	geckodriver	INFO	Listening on 127.0.0.1:52035
+1694535805737	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "46107" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileKuLWVO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+
+(firefox:708828): Gtk-WARNING **: 21:53:25.900: Theme parsing error: gtk.css:63:28: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:708828): Gtk-WARNING **: 21:53:25.900: Theme parsing error: gtk.css:73:35: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:708828): Gtk-WARNING **: 21:53:25.900: Theme parsing error: gtk.css:115:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:708828): Gtk-WARNING **: 21:53:25.900: Theme parsing error: gtk.css:116:24: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:708828): Gtk-WARNING **: 21:53:25.900: Theme parsing error: gtk.css:145:27: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:708828): Gtk-WARNING **: 21:53:25.900: Theme parsing error: gtk.css:146:29: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:708828): Gtk-WARNING **: 21:53:25.900: Theme parsing error: gtk.css:166:34: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:708828): Gtk-WARNING **: 21:53:25.900: Theme parsing error: gtk.css:187:34: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(firefox:708828): Gtk-WARNING **: 21:53:25.955: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:708828): Gtk-WARNING **: 21:53:26.020: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:708828): Gtk-WARNING **: 21:53:26.086: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:708828): Gtk-WARNING **: 21:53:26.113: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+1694535806223	Marionette	INFO	Marionette enabled
+1694535806271	Marionette	INFO	Listening on port 45495
+WebDriver BiDi listening on ws://127.0.0.1:46107
+Read port: 45495
+1694535806400	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:46107/devtools/browser/a9b472b7-4e70-4c6c-937c-2a7ef2e6a6ac
+1694535819624	geckodriver	INFO	Listening on 127.0.0.1:35839
+1694535819647	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "36073" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileotYdzd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+
+(firefox:709182): Gtk-WARNING **: 21:53:39.796: Theme parsing error: gtk.css:63:28: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:709182): Gtk-WARNING **: 21:53:39.796: Theme parsing error: gtk.css:73:35: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:709182): Gtk-WARNING **: 21:53:39.796: Theme parsing error: gtk.css:115:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:709182): Gtk-WARNING **: 21:53:39.796: Theme parsing error: gtk.css:116:24: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:709182): Gtk-WARNING **: 21:53:39.797: Theme parsing error: gtk.css:145:27: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:709182): Gtk-WARNING **: 21:53:39.797: Theme parsing error: gtk.css:146:29: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:709182): Gtk-WARNING **: 21:53:39.797: Theme parsing error: gtk.css:166:34: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:709182): Gtk-WARNING **: 21:53:39.797: Theme parsing error: gtk.css:187:34: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(firefox:709182): Gtk-WARNING **: 21:53:39.802: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:709182): Gtk-WARNING **: 21:53:39.859: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:709182): Gtk-WARNING **: 21:53:39.926: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:709182): Gtk-WARNING **: 21:53:39.953: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+1694535820065	Marionette	INFO	Marionette enabled
+1694535820113	Marionette	INFO	Listening on port 38257
+WebDriver BiDi listening on ws://127.0.0.1:36073
+Read port: 38257
+1694535820240	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:36073/devtools/browser/12734bb1-5b58-4e2a-a7dc-c3a17b63bea2
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1694535855062	Marionette	INFO	Stopped listening on port 38257
+1694535855795	Marionette	INFO	Stopped listening on port 45495
+1694535856390	Marionette	INFO	Stopped listening on port 40493
+1694535856924	Marionette	INFO	Stopped listening on port 38217
+1694535857508	Marionette	INFO	Stopped listening on port 45291
+1694535858180	Marionette	INFO	Stopped listening on port 45247
+1694535858833	Marionette	INFO	Stopped listening on port 39789
+1694535859504	Marionette	INFO	Stopped listening on port 44731
+1694536171867	geckodriver	INFO	Listening on 127.0.0.1:36833
+1694536171894	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "48921" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile2Ld1Tr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+
+(firefox:711075): Gtk-WARNING **: 21:59:32.059: Theme parsing error: gtk.css:63:28: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:711075): Gtk-WARNING **: 21:59:32.059: Theme parsing error: gtk.css:73:35: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:711075): Gtk-WARNING **: 21:59:32.059: Theme parsing error: gtk.css:115:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:711075): Gtk-WARNING **: 21:59:32.059: Theme parsing error: gtk.css:116:24: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:711075): Gtk-WARNING **: 21:59:32.059: Theme parsing error: gtk.css:145:27: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:711075): Gtk-WARNING **: 21:59:32.059: Theme parsing error: gtk.css:146:29: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:711075): Gtk-WARNING **: 21:59:32.059: Theme parsing error: gtk.css:166:34: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:711075): Gtk-WARNING **: 21:59:32.059: Theme parsing error: gtk.css:187:34: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(firefox:711075): Gtk-WARNING **: 21:59:32.113: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:711075): Gtk-WARNING **: 21:59:32.250: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:711075): Gtk-WARNING **: 21:59:32.323: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:711075): Gtk-WARNING **: 21:59:32.350: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+1694536172470	Marionette	INFO	Marionette enabled
+1694536172520	Marionette	INFO	Listening on port 37975
+WebDriver BiDi listening on ws://127.0.0.1:48921
+Read port: 37975
+1694536172651	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:48921/devtools/browser/05402643-53d8-48d2-9c3e-1c9b8bc9e171
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1694536212202	geckodriver	INFO	Listening on 127.0.0.1:52983
+1694536212225	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "36425" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileoMtrLE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+
+(firefox:711529): Gtk-WARNING **: 22:00:12.375: Theme parsing error: gtk.css:63:28: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:711529): Gtk-WARNING **: 22:00:12.375: Theme parsing error: gtk.css:73:35: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:711529): Gtk-WARNING **: 22:00:12.375: Theme parsing error: gtk.css:115:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:711529): Gtk-WARNING **: 22:00:12.375: Theme parsing error: gtk.css:116:24: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:711529): Gtk-WARNING **: 22:00:12.375: Theme parsing error: gtk.css:145:27: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:711529): Gtk-WARNING **: 22:00:12.375: Theme parsing error: gtk.css:146:29: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:711529): Gtk-WARNING **: 22:00:12.375: Theme parsing error: gtk.css:166:34: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:711529): Gtk-WARNING **: 22:00:12.376: Theme parsing error: gtk.css:187:34: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(firefox:711529): Gtk-WARNING **: 22:00:12.381: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:711529): Gtk-WARNING **: 22:00:12.438: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:711529): Gtk-WARNING **: 22:00:12.505: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:711529): Gtk-WARNING **: 22:00:12.533: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+1694536212646	Marionette	INFO	Marionette enabled
+1694536212696	Marionette	INFO	Listening on port 46115
+WebDriver BiDi listening on ws://127.0.0.1:36425
+Read port: 46115
+1694536212821	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:36425/devtools/browser/8856dfaa-c67b-4bb9-8edd-df1f9d39298f
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1694536243958	geckodriver	INFO	Listening on 127.0.0.1:38559
+1694536243981	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "54139" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileTYOeMW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+
+(firefox:711970): Gtk-WARNING **: 22:00:44.132: Theme parsing error: gtk.css:63:28: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:711970): Gtk-WARNING **: 22:00:44.132: Theme parsing error: gtk.css:73:35: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:711970): Gtk-WARNING **: 22:00:44.132: Theme parsing error: gtk.css:115:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:711970): Gtk-WARNING **: 22:00:44.132: Theme parsing error: gtk.css:116:24: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:711970): Gtk-WARNING **: 22:00:44.132: Theme parsing error: gtk.css:145:27: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:711970): Gtk-WARNING **: 22:00:44.132: Theme parsing error: gtk.css:146:29: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:711970): Gtk-WARNING **: 22:00:44.132: Theme parsing error: gtk.css:166:34: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:711970): Gtk-WARNING **: 22:00:44.132: Theme parsing error: gtk.css:187:34: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(firefox:711970): Gtk-WARNING **: 22:00:44.137: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:711970): Gtk-WARNING **: 22:00:44.194: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:711970): Gtk-WARNING **: 22:00:44.263: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:711970): Gtk-WARNING **: 22:00:44.289: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+1694536244405	Marionette	INFO	Marionette enabled
+1694536244454	Marionette	INFO	Listening on port 44801
+WebDriver BiDi listening on ws://127.0.0.1:54139
+Read port: 44801
+1694536244576	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:54139/devtools/browser/7d481118-0897-4554-b7cb-71f955a50fb3
+1694536258007	geckodriver	INFO	Listening on 127.0.0.1:58931
+1694536258030	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "48355" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileDPsHpO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+
+(firefox:712323): Gtk-WARNING **: 22:00:58.182: Theme parsing error: gtk.css:63:28: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:712323): Gtk-WARNING **: 22:00:58.182: Theme parsing error: gtk.css:73:35: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:712323): Gtk-WARNING **: 22:00:58.182: Theme parsing error: gtk.css:115:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:712323): Gtk-WARNING **: 22:00:58.182: Theme parsing error: gtk.css:116:24: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:712323): Gtk-WARNING **: 22:00:58.182: Theme parsing error: gtk.css:145:27: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:712323): Gtk-WARNING **: 22:00:58.182: Theme parsing error: gtk.css:146:29: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:712323): Gtk-WARNING **: 22:00:58.182: Theme parsing error: gtk.css:166:34: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:712323): Gtk-WARNING **: 22:00:58.182: Theme parsing error: gtk.css:187:34: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(firefox:712323): Gtk-WARNING **: 22:00:58.187: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:712323): Gtk-WARNING **: 22:00:58.245: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:712323): Gtk-WARNING **: 22:00:58.313: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:712323): Gtk-WARNING **: 22:00:58.339: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+1694536258452	Marionette	INFO	Marionette enabled
+1694536258501	Marionette	INFO	Listening on port 40451
+WebDriver BiDi listening on ws://127.0.0.1:48355
+Read port: 40451
+1694536258625	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:48355/devtools/browser/894ad517-a11f-4ccc-bb6d-864aadcadc65
+1694536269268	geckodriver	INFO	Listening on 127.0.0.1:50141
+1694536269290	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "48357" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileyYr85I"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+
+(firefox:712671): Gtk-WARNING **: 22:01:09.440: Theme parsing error: gtk.css:63:28: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:712671): Gtk-WARNING **: 22:01:09.440: Theme parsing error: gtk.css:73:35: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:712671): Gtk-WARNING **: 22:01:09.440: Theme parsing error: gtk.css:115:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:712671): Gtk-WARNING **: 22:01:09.440: Theme parsing error: gtk.css:116:24: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:712671): Gtk-WARNING **: 22:01:09.440: Theme parsing error: gtk.css:145:27: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:712671): Gtk-WARNING **: 22:01:09.440: Theme parsing error: gtk.css:146:29: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:712671): Gtk-WARNING **: 22:01:09.440: Theme parsing error: gtk.css:166:34: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:712671): Gtk-WARNING **: 22:01:09.440: Theme parsing error: gtk.css:187:34: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(firefox:712671): Gtk-WARNING **: 22:01:09.446: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:712671): Gtk-WARNING **: 22:01:09.502: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:712671): Gtk-WARNING **: 22:01:09.570: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:712671): Gtk-WARNING **: 22:01:09.597: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+1694536269710	Marionette	INFO	Marionette enabled
+1694536269758	Marionette	INFO	Listening on port 36937
+WebDriver BiDi listening on ws://127.0.0.1:48357
+Read port: 36937
+1694536269882	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:48357/devtools/browser/1cf062ca-0eee-49f4-9bc6-12f7c02e63e0
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1694536283080	geckodriver	INFO	Listening on 127.0.0.1:36451
+1694536283103	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "44667" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilefQMeI9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+
+(firefox:713038): Gtk-WARNING **: 22:01:23.254: Theme parsing error: gtk.css:63:28: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:713038): Gtk-WARNING **: 22:01:23.254: Theme parsing error: gtk.css:73:35: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:713038): Gtk-WARNING **: 22:01:23.254: Theme parsing error: gtk.css:115:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:713038): Gtk-WARNING **: 22:01:23.254: Theme parsing error: gtk.css:116:24: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:713038): Gtk-WARNING **: 22:01:23.254: Theme parsing error: gtk.css:145:27: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:713038): Gtk-WARNING **: 22:01:23.254: Theme parsing error: gtk.css:146:29: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:713038): Gtk-WARNING **: 22:01:23.254: Theme parsing error: gtk.css:166:34: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:713038): Gtk-WARNING **: 22:01:23.254: Theme parsing error: gtk.css:187:34: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(firefox:713038): Gtk-WARNING **: 22:01:23.259: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:713038): Gtk-WARNING **: 22:01:23.317: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:713038): Gtk-WARNING **: 22:01:23.384: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:713038): Gtk-WARNING **: 22:01:23.410: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+1694536283525	Marionette	INFO	Marionette enabled
+1694536283574	Marionette	INFO	Listening on port 34929
+WebDriver BiDi listening on ws://127.0.0.1:44667
+Read port: 34929
+1694536283698	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:44667/devtools/browser/214afc0a-33ad-4664-9691-82caa8c9e09f
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1694536297002	geckodriver	INFO	Listening on 127.0.0.1:48453
+1694536297025	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "49245" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile0k72JC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+
+(firefox:713408): Gtk-WARNING **: 22:01:37.178: Theme parsing error: gtk.css:63:28: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:713408): Gtk-WARNING **: 22:01:37.178: Theme parsing error: gtk.css:73:35: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:713408): Gtk-WARNING **: 22:01:37.178: Theme parsing error: gtk.css:115:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:713408): Gtk-WARNING **: 22:01:37.178: Theme parsing error: gtk.css:116:24: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:713408): Gtk-WARNING **: 22:01:37.178: Theme parsing error: gtk.css:145:27: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:713408): Gtk-WARNING **: 22:01:37.178: Theme parsing error: gtk.css:146:29: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:713408): Gtk-WARNING **: 22:01:37.178: Theme parsing error: gtk.css:166:34: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:713408): Gtk-WARNING **: 22:01:37.178: Theme parsing error: gtk.css:187:34: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(firefox:713408): Gtk-WARNING **: 22:01:37.184: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:713408): Gtk-WARNING **: 22:01:37.242: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:713408): Gtk-WARNING **: 22:01:37.310: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:713408): Gtk-WARNING **: 22:01:37.336: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+1694536297449	Marionette	INFO	Marionette enabled
+1694536297498	Marionette	INFO	Listening on port 38929
+WebDriver BiDi listening on ws://127.0.0.1:49245
+Read port: 38929
+1694536297623	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:49245/devtools/browser/5c43e1e9-7e36-447c-bf28-53e35b43d647
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1694536364156	geckodriver	INFO	Listening on 127.0.0.1:56885
+1694536364181	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "39291" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile3cHDzJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+
+(firefox:714019): Gtk-WARNING **: 22:02:44.334: Theme parsing error: gtk.css:63:28: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:714019): Gtk-WARNING **: 22:02:44.334: Theme parsing error: gtk.css:73:35: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:714019): Gtk-WARNING **: 22:02:44.334: Theme parsing error: gtk.css:115:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:714019): Gtk-WARNING **: 22:02:44.334: Theme parsing error: gtk.css:116:24: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:714019): Gtk-WARNING **: 22:02:44.334: Theme parsing error: gtk.css:145:27: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:714019): Gtk-WARNING **: 22:02:44.334: Theme parsing error: gtk.css:146:29: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:714019): Gtk-WARNING **: 22:02:44.334: Theme parsing error: gtk.css:166:34: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:714019): Gtk-WARNING **: 22:02:44.334: Theme parsing error: gtk.css:187:34: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(firefox:714019): Gtk-WARNING **: 22:02:44.339: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:714019): Gtk-WARNING **: 22:02:44.396: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:714019): Gtk-WARNING **: 22:02:44.464: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:714019): Gtk-WARNING **: 22:02:44.491: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+1694536364603	Marionette	INFO	Marionette enabled
+1694536364652	Marionette	INFO	Listening on port 45859
+WebDriver BiDi listening on ws://127.0.0.1:39291
+Read port: 45859
+1694536364779	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:39291/devtools/browser/c6070abd-135d-4b32-9ecd-d008a024bcd0
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1694536431185	geckodriver	INFO	Listening on 127.0.0.1:57199
+1694536431208	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "38371" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileOIHPdP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+
+(firefox:714816): Gtk-WARNING **: 22:03:51.358: Theme parsing error: gtk.css:63:28: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:714816): Gtk-WARNING **: 22:03:51.358: Theme parsing error: gtk.css:73:35: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:714816): Gtk-WARNING **: 22:03:51.358: Theme parsing error: gtk.css:115:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:714816): Gtk-WARNING **: 22:03:51.358: Theme parsing error: gtk.css:116:24: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:714816): Gtk-WARNING **: 22:03:51.358: Theme parsing error: gtk.css:145:27: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:714816): Gtk-WARNING **: 22:03:51.358: Theme parsing error: gtk.css:146:29: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:714816): Gtk-WARNING **: 22:03:51.358: Theme parsing error: gtk.css:166:34: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:714816): Gtk-WARNING **: 22:03:51.358: Theme parsing error: gtk.css:187:34: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(firefox:714816): Gtk-WARNING **: 22:03:51.364: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:714816): Gtk-WARNING **: 22:03:51.420: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:714816): Gtk-WARNING **: 22:03:51.487: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:714816): Gtk-WARNING **: 22:03:51.513: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+1694536431623	Marionette	INFO	Marionette enabled
+1694536431672	Marionette	INFO	Listening on port 34951
+WebDriver BiDi listening on ws://127.0.0.1:38371
+Read port: 34951
+1694536431796	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:38371/devtools/browser/2638d8dc-7b7e-489d-9370-acfcb8f24a27
+1694536451302	geckodriver	INFO	Listening on 127.0.0.1:58041
+1694536451325	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "33315" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile9X6wha"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+
+(firefox:715193): Gtk-WARNING **: 22:04:11.475: Theme parsing error: gtk.css:63:28: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:715193): Gtk-WARNING **: 22:04:11.475: Theme parsing error: gtk.css:73:35: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:715193): Gtk-WARNING **: 22:04:11.475: Theme parsing error: gtk.css:115:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:715193): Gtk-WARNING **: 22:04:11.475: Theme parsing error: gtk.css:116:24: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:715193): Gtk-WARNING **: 22:04:11.475: Theme parsing error: gtk.css:145:27: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:715193): Gtk-WARNING **: 22:04:11.475: Theme parsing error: gtk.css:146:29: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:715193): Gtk-WARNING **: 22:04:11.475: Theme parsing error: gtk.css:166:34: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:715193): Gtk-WARNING **: 22:04:11.475: Theme parsing error: gtk.css:187:34: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(firefox:715193): Gtk-WARNING **: 22:04:11.481: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:715193): Gtk-WARNING **: 22:04:11.538: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:715193): Gtk-WARNING **: 22:04:11.605: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:715193): Gtk-WARNING **: 22:04:11.632: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+1694536451742	Marionette	INFO	Marionette enabled
+1694536451791	Marionette	INFO	Listening on port 40561
+WebDriver BiDi listening on ws://127.0.0.1:33315
+Read port: 40561
+1694536451915	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:33315/devtools/browser/ecbffd7c-6a10-4fd7-a965-e63174ba4c08
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1694536470542	geckodriver	INFO	Listening on 127.0.0.1:36765
+1694536470565	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "43505" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileQNeO2y"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+
+(firefox:715578): Gtk-WARNING **: 22:04:30.714: Theme parsing error: gtk.css:63:28: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:715578): Gtk-WARNING **: 22:04:30.714: Theme parsing error: gtk.css:73:35: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:715578): Gtk-WARNING **: 22:04:30.714: Theme parsing error: gtk.css:115:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:715578): Gtk-WARNING **: 22:04:30.714: Theme parsing error: gtk.css:116:24: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:715578): Gtk-WARNING **: 22:04:30.714: Theme parsing error: gtk.css:145:27: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:715578): Gtk-WARNING **: 22:04:30.714: Theme parsing error: gtk.css:146:29: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:715578): Gtk-WARNING **: 22:04:30.714: Theme parsing error: gtk.css:166:34: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:715578): Gtk-WARNING **: 22:04:30.714: Theme parsing error: gtk.css:187:34: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(firefox:715578): Gtk-WARNING **: 22:04:30.720: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:715578): Gtk-WARNING **: 22:04:30.777: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:715578): Gtk-WARNING **: 22:04:30.844: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:715578): Gtk-WARNING **: 22:04:30.870: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+1694536470980	Marionette	INFO	Marionette enabled
+1694536471029	Marionette	INFO	Listening on port 35591
+WebDriver BiDi listening on ws://127.0.0.1:43505
+Read port: 35591
+1694536471157	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:43505/devtools/browser/a4ccb3c9-c6b0-4f45-aa05-5b7ef0d19fa3
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1694536610545	geckodriver	INFO	Listening on 127.0.0.1:58299
+1694536610568	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "44743" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilevhuGHN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+
+(firefox:716864): Gtk-WARNING **: 22:06:50.721: Theme parsing error: gtk.css:63:28: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:716864): Gtk-WARNING **: 22:06:50.721: Theme parsing error: gtk.css:73:35: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:716864): Gtk-WARNING **: 22:06:50.721: Theme parsing error: gtk.css:115:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:716864): Gtk-WARNING **: 22:06:50.721: Theme parsing error: gtk.css:116:24: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:716864): Gtk-WARNING **: 22:06:50.721: Theme parsing error: gtk.css:145:27: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:716864): Gtk-WARNING **: 22:06:50.721: Theme parsing error: gtk.css:146:29: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:716864): Gtk-WARNING **: 22:06:50.721: Theme parsing error: gtk.css:166:34: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:716864): Gtk-WARNING **: 22:06:50.721: Theme parsing error: gtk.css:187:34: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(firefox:716864): Gtk-WARNING **: 22:06:50.802: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:716864): Gtk-WARNING **: 22:06:50.990: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:716864): Gtk-WARNING **: 22:06:51.063: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:716864): Gtk-WARNING **: 22:06:51.089: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+1694536611208	Marionette	INFO	Marionette enabled
+1694536611259	Marionette	INFO	Listening on port 36907
+WebDriver BiDi listening on ws://127.0.0.1:44743
+Read port: 36907
+1694536611361	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:44743/devtools/browser/5e4260ec-c6eb-4874-810d-a2c8fe9cd526
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1694536710616	geckodriver	INFO	Listening on 127.0.0.1:53193
+1694536710641	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "55851" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilenyZEnF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+
+(firefox:717560): Gtk-WARNING **: 22:08:30.793: Theme parsing error: gtk.css:63:28: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:717560): Gtk-WARNING **: 22:08:30.794: Theme parsing error: gtk.css:73:35: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:717560): Gtk-WARNING **: 22:08:30.794: Theme parsing error: gtk.css:115:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:717560): Gtk-WARNING **: 22:08:30.794: Theme parsing error: gtk.css:116:24: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:717560): Gtk-WARNING **: 22:08:30.794: Theme parsing error: gtk.css:145:27: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:717560): Gtk-WARNING **: 22:08:30.794: Theme parsing error: gtk.css:146:29: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:717560): Gtk-WARNING **: 22:08:30.794: Theme parsing error: gtk.css:166:34: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:717560): Gtk-WARNING **: 22:08:30.794: Theme parsing error: gtk.css:187:34: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(firefox:717560): Gtk-WARNING **: 22:08:30.799: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:717560): Gtk-WARNING **: 22:08:30.858: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:717560): Gtk-WARNING **: 22:08:30.925: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:717560): Gtk-WARNING **: 22:08:30.951: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+1694536711077	Marionette	INFO	Marionette enabled
+1694536711126	Marionette	INFO	Listening on port 34965
+WebDriver BiDi listening on ws://127.0.0.1:55851
+Read port: 34965
+1694536711227	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:55851/devtools/browser/29fdc665-36a5-432f-a5eb-212dd8eee36e
+1694536789844	geckodriver	INFO	Listening on 127.0.0.1:51629
+1694536789868	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "38901" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileAIcD4E"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+
+(firefox:718434): Gtk-WARNING **: 22:09:50.019: Theme parsing error: gtk.css:63:28: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:718434): Gtk-WARNING **: 22:09:50.019: Theme parsing error: gtk.css:73:35: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:718434): Gtk-WARNING **: 22:09:50.019: Theme parsing error: gtk.css:115:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:718434): Gtk-WARNING **: 22:09:50.019: Theme parsing error: gtk.css:116:24: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:718434): Gtk-WARNING **: 22:09:50.020: Theme parsing error: gtk.css:145:27: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:718434): Gtk-WARNING **: 22:09:50.020: Theme parsing error: gtk.css:146:29: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:718434): Gtk-WARNING **: 22:09:50.020: Theme parsing error: gtk.css:166:34: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:718434): Gtk-WARNING **: 22:09:50.020: Theme parsing error: gtk.css:187:34: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(firefox:718434): Gtk-WARNING **: 22:09:50.025: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:718434): Gtk-WARNING **: 22:09:50.084: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:718434): Gtk-WARNING **: 22:09:50.152: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:718434): Gtk-WARNING **: 22:09:50.179: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+1694536790293	Marionette	INFO	Marionette enabled
+1694536790342	Marionette	INFO	Listening on port 34137
+WebDriver BiDi listening on ws://127.0.0.1:38901
+Read port: 34137
+1694536790465	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:38901/devtools/browser/32d21f94-a9d6-4ed8-96b5-00cbef03915e
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1694536846884	geckodriver	INFO	Listening on 127.0.0.1:37541
+1694536846907	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "58917" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileMPAPz5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+
+(firefox:718979): Gtk-WARNING **: 22:10:47.061: Theme parsing error: gtk.css:63:28: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:718979): Gtk-WARNING **: 22:10:47.061: Theme parsing error: gtk.css:73:35: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:718979): Gtk-WARNING **: 22:10:47.061: Theme parsing error: gtk.css:115:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:718979): Gtk-WARNING **: 22:10:47.061: Theme parsing error: gtk.css:116:24: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:718979): Gtk-WARNING **: 22:10:47.061: Theme parsing error: gtk.css:145:27: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:718979): Gtk-WARNING **: 22:10:47.061: Theme parsing error: gtk.css:146:29: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:718979): Gtk-WARNING **: 22:10:47.061: Theme parsing error: gtk.css:166:34: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:718979): Gtk-WARNING **: 22:10:47.061: Theme parsing error: gtk.css:187:34: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(firefox:718979): Gtk-WARNING **: 22:10:47.067: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:718979): Gtk-WARNING **: 22:10:47.124: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:718979): Gtk-WARNING **: 22:10:47.190: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:718979): Gtk-WARNING **: 22:10:47.217: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+1694536847330	Marionette	INFO	Marionette enabled
+1694536847378	Marionette	INFO	Listening on port 45165
+WebDriver BiDi listening on ws://127.0.0.1:58917
+Read port: 45165
+1694536847500	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:58917/devtools/browser/0ffa8bb3-b0a7-4b5d-9c79-f27cfebc3e87
+1694536859533	geckodriver	INFO	Listening on 127.0.0.1:37775
+1694536859556	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "48799" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilerD6BUA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+
+(firefox:719320): Gtk-WARNING **: 22:10:59.709: Theme parsing error: gtk.css:63:28: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:719320): Gtk-WARNING **: 22:10:59.709: Theme parsing error: gtk.css:73:35: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:719320): Gtk-WARNING **: 22:10:59.709: Theme parsing error: gtk.css:115:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:719320): Gtk-WARNING **: 22:10:59.709: Theme parsing error: gtk.css:116:24: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:719320): Gtk-WARNING **: 22:10:59.709: Theme parsing error: gtk.css:145:27: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:719320): Gtk-WARNING **: 22:10:59.709: Theme parsing error: gtk.css:146:29: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:719320): Gtk-WARNING **: 22:10:59.709: Theme parsing error: gtk.css:166:34: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:719320): Gtk-WARNING **: 22:10:59.709: Theme parsing error: gtk.css:187:34: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(firefox:719320): Gtk-WARNING **: 22:10:59.714: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:719320): Gtk-WARNING **: 22:10:59.774: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:719320): Gtk-WARNING **: 22:10:59.842: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:719320): Gtk-WARNING **: 22:10:59.869: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+1694536859982	Marionette	INFO	Marionette enabled
+1694536860031	Marionette	INFO	Listening on port 41739
+WebDriver BiDi listening on ws://127.0.0.1:48799
+Read port: 41739
+1694536860160	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:48799/devtools/browser/066be3ce-1453-4840-8489-7c43c4b7cc2e
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1694536886368	geckodriver	INFO	Listening on 127.0.0.1:43639
+1694536886392	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "44091" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilePzGbNO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+
+(firefox:719736): Gtk-WARNING **: 22:11:26.545: Theme parsing error: gtk.css:63:28: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:719736): Gtk-WARNING **: 22:11:26.545: Theme parsing error: gtk.css:73:35: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:719736): Gtk-WARNING **: 22:11:26.545: Theme parsing error: gtk.css:115:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:719736): Gtk-WARNING **: 22:11:26.545: Theme parsing error: gtk.css:116:24: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:719736): Gtk-WARNING **: 22:11:26.545: Theme parsing error: gtk.css:145:27: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:719736): Gtk-WARNING **: 22:11:26.545: Theme parsing error: gtk.css:146:29: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:719736): Gtk-WARNING **: 22:11:26.545: Theme parsing error: gtk.css:166:34: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:719736): Gtk-WARNING **: 22:11:26.545: Theme parsing error: gtk.css:187:34: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(firefox:719736): Gtk-WARNING **: 22:11:26.550: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:719736): Gtk-WARNING **: 22:11:26.608: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:719736): Gtk-WARNING **: 22:11:26.676: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:719736): Gtk-WARNING **: 22:11:26.704: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+1694536886819	Marionette	INFO	Marionette enabled
+1694536886869	Marionette	INFO	Listening on port 37249
+WebDriver BiDi listening on ws://127.0.0.1:44091
+Read port: 37249
+1694536886996	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:44091/devtools/browser/712ee539-380b-44bd-ab3f-ace269c0bcfe
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1694536911106	Marionette	INFO	Stopped listening on port 37249
+1694536911595	Marionette	INFO	Stopped listening on port 41739
+1694536912090	Marionette	INFO	Stopped listening on port 45165
+1694536913037	Marionette	INFO	Stopped listening on port 34137
+1694536913816	Marionette	INFO	Stopped listening on port 35591
+1694536915111	Marionette	INFO	Stopped listening on port 40561
+1694536915827	Marionette	INFO	Stopped listening on port 34951
+1694536916489	Marionette	INFO	Stopped listening on port 45859
+1694536917600	Marionette	INFO	Stopped listening on port 34929
+1694536918001	Marionette	INFO	Stopped listening on port 38929
+1694536918269	Marionette	INFO	Stopped listening on port 36937
+1694536918476	Marionette	INFO	Stopped listening on port 40451
+1694536918707	Marionette	INFO	Stopped listening on port 44801
+1694536918900	Marionette	INFO	Stopped listening on port 46115
+1694536919124	Marionette	INFO	Stopped listening on port 37975
+1694536984591	geckodriver	INFO	Listening on 127.0.0.1:45755
+1694536984638	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "43361" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileZBpIfG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+
+(firefox:721056): Gtk-WARNING **: 22:13:04.828: Theme parsing error: gtk.css:63:28: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:721056): Gtk-WARNING **: 22:13:04.828: Theme parsing error: gtk.css:73:35: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:721056): Gtk-WARNING **: 22:13:04.828: Theme parsing error: gtk.css:115:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:721056): Gtk-WARNING **: 22:13:04.828: Theme parsing error: gtk.css:116:24: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:721056): Gtk-WARNING **: 22:13:04.828: Theme parsing error: gtk.css:145:27: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:721056): Gtk-WARNING **: 22:13:04.828: Theme parsing error: gtk.css:146:29: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:721056): Gtk-WARNING **: 22:13:04.828: Theme parsing error: gtk.css:166:34: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:721056): Gtk-WARNING **: 22:13:04.828: Theme parsing error: gtk.css:187:34: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(firefox:721056): Gtk-WARNING **: 22:13:04.834: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:721056): Gtk-WARNING **: 22:13:04.915: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:721056): Gtk-WARNING **: 22:13:05.004: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:721056): Gtk-WARNING **: 22:13:05.033: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+1694536985158	Marionette	INFO	Marionette enabled
+1694536985222	Marionette	INFO	Listening on port 40907
+WebDriver BiDi listening on ws://127.0.0.1:43361
+Read port: 40907
+1694536985329	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:43361/devtools/browser/a95abe70-8b99-4fef-94c8-7b81564aafc6
+1694537004910	geckodriver	INFO	Listening on 127.0.0.1:59329
+1694537004933	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "45377" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile5A1gQx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+
+(firefox:721454): Gtk-WARNING **: 22:13:25.086: Theme parsing error: gtk.css:63:28: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:721454): Gtk-WARNING **: 22:13:25.086: Theme parsing error: gtk.css:73:35: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:721454): Gtk-WARNING **: 22:13:25.086: Theme parsing error: gtk.css:115:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:721454): Gtk-WARNING **: 22:13:25.086: Theme parsing error: gtk.css:116:24: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:721454): Gtk-WARNING **: 22:13:25.086: Theme parsing error: gtk.css:145:27: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:721454): Gtk-WARNING **: 22:13:25.086: Theme parsing error: gtk.css:146:29: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:721454): Gtk-WARNING **: 22:13:25.086: Theme parsing error: gtk.css:166:34: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:721454): Gtk-WARNING **: 22:13:25.087: Theme parsing error: gtk.css:187:34: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(firefox:721454): Gtk-WARNING **: 22:13:25.092: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:721454): Gtk-WARNING **: 22:13:25.151: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:721454): Gtk-WARNING **: 22:13:25.227: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:721454): Gtk-WARNING **: 22:13:25.258: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+1694537005385	Marionette	INFO	Marionette enabled
+1694537005439	Marionette	INFO	Listening on port 34983
+WebDriver BiDi listening on ws://127.0.0.1:45377
+Read port: 34983
+1694537005576	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:45377/devtools/browser/59dab126-155b-4ee3-a013-ccc19407dc3c
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1694537024058	geckodriver	INFO	Listening on 127.0.0.1:37925
+1694537024081	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "53685" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilejyOiUN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+
+(firefox:721869): Gtk-WARNING **: 22:13:44.240: Theme parsing error: gtk.css:63:28: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:721869): Gtk-WARNING **: 22:13:44.240: Theme parsing error: gtk.css:73:35: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:721869): Gtk-WARNING **: 22:13:44.240: Theme parsing error: gtk.css:115:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:721869): Gtk-WARNING **: 22:13:44.240: Theme parsing error: gtk.css:116:24: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:721869): Gtk-WARNING **: 22:13:44.240: Theme parsing error: gtk.css:145:27: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:721869): Gtk-WARNING **: 22:13:44.240: Theme parsing error: gtk.css:146:29: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:721869): Gtk-WARNING **: 22:13:44.240: Theme parsing error: gtk.css:166:34: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:721869): Gtk-WARNING **: 22:13:44.240: Theme parsing error: gtk.css:187:34: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(firefox:721869): Gtk-WARNING **: 22:13:44.245: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:721869): Gtk-WARNING **: 22:13:44.306: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:721869): Gtk-WARNING **: 22:13:44.381: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:721869): Gtk-WARNING **: 22:13:44.411: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+1694537024536	Marionette	INFO	Marionette enabled
+1694537024589	Marionette	INFO	Listening on port 43939
+WebDriver BiDi listening on ws://127.0.0.1:53685
+Read port: 43939
+1694537024728	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:53685/devtools/browser/77391220-3df3-4176-ac69-4777ba365d2f
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1694537038399	geckodriver	INFO	Listening on 127.0.0.1:54917
+1694537038422	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "41467" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilenwS4Vi"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+
+(firefox:722230): Gtk-WARNING **: 22:13:58.577: Theme parsing error: gtk.css:63:28: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:722230): Gtk-WARNING **: 22:13:58.577: Theme parsing error: gtk.css:73:35: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:722230): Gtk-WARNING **: 22:13:58.577: Theme parsing error: gtk.css:115:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:722230): Gtk-WARNING **: 22:13:58.577: Theme parsing error: gtk.css:116:24: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:722230): Gtk-WARNING **: 22:13:58.577: Theme parsing error: gtk.css:145:27: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:722230): Gtk-WARNING **: 22:13:58.577: Theme parsing error: gtk.css:146:29: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:722230): Gtk-WARNING **: 22:13:58.577: Theme parsing error: gtk.css:166:34: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:722230): Gtk-WARNING **: 22:13:58.577: Theme parsing error: gtk.css:187:34: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(firefox:722230): Gtk-WARNING **: 22:13:58.583: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:722230): Gtk-WARNING **: 22:13:58.643: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:722230): Gtk-WARNING **: 22:13:58.715: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:722230): Gtk-WARNING **: 22:13:58.745: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+1694537038866	Marionette	INFO	Marionette enabled
+1694537038921	Marionette	INFO	Listening on port 33223
+Read port: 33223
+WebDriver BiDi listening on ws://127.0.0.1:41467
+1694537038960	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:41467/devtools/browser/82dff785-b722-4a7a-8df0-633bc0bb995f
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1694537100650	geckodriver	INFO	Listening on 127.0.0.1:39943
+1694537100673	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "35699" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilewBWa2H"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+
+(firefox:722797): Gtk-WARNING **: 22:15:00.829: Theme parsing error: gtk.css:63:28: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:722797): Gtk-WARNING **: 22:15:00.829: Theme parsing error: gtk.css:73:35: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:722797): Gtk-WARNING **: 22:15:00.829: Theme parsing error: gtk.css:115:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:722797): Gtk-WARNING **: 22:15:00.829: Theme parsing error: gtk.css:116:24: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:722797): Gtk-WARNING **: 22:15:00.829: Theme parsing error: gtk.css:145:27: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:722797): Gtk-WARNING **: 22:15:00.829: Theme parsing error: gtk.css:146:29: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:722797): Gtk-WARNING **: 22:15:00.829: Theme parsing error: gtk.css:166:34: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:722797): Gtk-WARNING **: 22:15:00.829: Theme parsing error: gtk.css:187:34: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(firefox:722797): Gtk-WARNING **: 22:15:00.835: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:722797): Gtk-WARNING **: 22:15:00.892: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:722797): Gtk-WARNING **: 22:15:00.960: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:722797): Gtk-WARNING **: 22:15:00.988: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+1694537101120	Marionette	INFO	Marionette enabled
+1694537101169	Marionette	INFO	Listening on port 42339
+Read port: 42339
+WebDriver BiDi listening on ws://127.0.0.1:35699
+1694537101208	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:35699/devtools/browser/7bc2a399-47f1-4ee8-848e-fb7e68ff71b6
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1694537139601	geckodriver	INFO	Listening on 127.0.0.1:44621
+1694537139624	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "57247" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiledEaGpp"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+
+(firefox:723268): Gtk-WARNING **: 22:15:39.775: Theme parsing error: gtk.css:63:28: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:723268): Gtk-WARNING **: 22:15:39.776: Theme parsing error: gtk.css:73:35: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:723268): Gtk-WARNING **: 22:15:39.776: Theme parsing error: gtk.css:115:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:723268): Gtk-WARNING **: 22:15:39.776: Theme parsing error: gtk.css:116:24: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:723268): Gtk-WARNING **: 22:15:39.776: Theme parsing error: gtk.css:145:27: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:723268): Gtk-WARNING **: 22:15:39.776: Theme parsing error: gtk.css:146:29: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:723268): Gtk-WARNING **: 22:15:39.776: Theme parsing error: gtk.css:166:34: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:723268): Gtk-WARNING **: 22:15:39.776: Theme parsing error: gtk.css:187:34: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(firefox:723268): Gtk-WARNING **: 22:15:39.781: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:723268): Gtk-WARNING **: 22:15:39.838: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:723268): Gtk-WARNING **: 22:15:39.904: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:723268): Gtk-WARNING **: 22:15:39.931: Theme parsing error: gtk.css:3929:55: Using one color stop with linear-gradient() is deprecated.
+1694537140041	Marionette	INFO	Marionette enabled
+1694537140089	Marionette	INFO	Listening on port 43859
+WebDriver BiDi listening on ws://127.0.0.1:57247
+Read port: 43859
+1694537140214	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:57247/devtools/browser/b228e9fa-e9b8-4faa-be08-4ec6790e9f8b
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1694537317479	Marionette	INFO	Stopped listening on port 43859
+1694537318191	Marionette	INFO	Stopped listening on port 42339
+1694537318985	Marionette	INFO	Stopped listening on port 33223
+1694537319689	Marionette	INFO	Stopped listening on port 43939
+1694537320427	Marionette	INFO	Stopped listening on port 34983
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1694537391874	Marionette	INFO	Stopped listening on port 40907
